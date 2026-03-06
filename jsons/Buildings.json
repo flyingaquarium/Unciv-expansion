@@ -51,7 +51,7 @@
 		"name": "National Institution of Taxation",
 		"gold": 2,
 		"hurryCostModifier": 25,
-		"Unappiness": 10,
+		"Happiness": 10,
 		"requiredTech": "Computers",
 		"uniques": ["[+1 Gold] per [1] population [in all cities]"]
 	}
