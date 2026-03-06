@@ -43,7 +43,7 @@
 		"cost": 525,
 		"science": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Public School] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [50] per owned city","[+1 science] per [1] population [in this city]","[+1 science] per [5] population [in all cities]"],
+		"uniques": ["Only available <if [Public School] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [50] per owned city","[+1 Science] per [1] population [in this city]","[+1 Science] per [5] population [in all cities]"],
 		"requiredTech": "Electricity"
 	},
 	{
