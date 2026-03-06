@@ -1,5 +1,56 @@
 [
 	{
-	
+		"name": "Ancestral Temple",
+		"replaces": "Shrine",
+		"uniqueTo": "China",
+		"faith": 4,
+		"culture": 1,
+		"cost": 45,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Rice farm",
+		"food": 1,
+		"hurryCostModifier": 55,
+		"requiredTech": "Agriculture"
+	},
+	{
+		"name": "Bronze Foundry",
+		"maintenance": 1,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 15},
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Tax Office",
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Industrialization",
+		"uniques": ["[+1 Gold] per [1] population [in this city]"]
+	},
+	{
+		"name": "Tax Office",
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Industrialization",
+		"uniques": ["[+1 Gold] per [1] population [in this city]"]
+	},
+	{
+		"name": "National Academy of Science",
+		"cost": 525,
+		"science": 5,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Public School] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [50] per owned city","[+1 science] per [1] population [in this city]","[+1 science] per [5] population [in all cities]"],
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "National Institution of Taxation",
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Industrialization",
+		"uniques": ["[+1 Gold] per [1] population [in all cities]"]
 	}
 ]
