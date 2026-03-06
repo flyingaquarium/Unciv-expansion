@@ -12,8 +12,9 @@
 	},
 	{
 		"name": "Rice farm",
+		"uniqueTo": "China",
 		"food": 1,
-		"hurryCostModifier": 55,
+		"hurryCostModifier": 15,
 		"requiredTech": "Agriculture"
 	},
 	{
@@ -51,7 +52,7 @@
 		"name": "National Institution of Taxation",
 		"gold": 2,
 		"hurryCostModifier": 25,
-		"happiness": 10,
+		"happiness": -10,
 		"requiredTech": "Computers",
 		"uniques": ["[+1 Gold] per [1] population [in all cities]"]
 	}
