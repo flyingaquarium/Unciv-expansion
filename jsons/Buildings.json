@@ -30,7 +30,7 @@
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Horses"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 happiness] from [Horses] tiles [in this city]"],
+		"uniques": ["[+1 Happiness] from [Horses] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -44,6 +44,7 @@
 		"name": "Fabrik",
 		"cost": 300,
 		"uniqueTo": "Germany",
+		"replaces": "Factory",
 		"production": 5,
 		"percentStatBonus": {"production": 15},
 		"specialistSlots": {"Engineer": 2},       // this ist called efficency mein boiii
