@@ -88,7 +88,7 @@
 			},
 			{
 				"name": "Advanced Lasers",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Lasers"],
 				"quote": "THISONLY PROVES MY POINT EVEN MORE !!!'- Mark Welson"
 			},
