@@ -26,6 +26,14 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
+		"name": "Horse Racing Field",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 happiness] from [Horses] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
 		"name": "Tax Office",
 		"gold": 2,
 		"hurryCostModifier": 25,
@@ -60,6 +68,14 @@
 		"uniques": ["[+2 Production] [in all cities]"]
 	},
 	{
+		"name": "Aquarium",
+		"happiness": 3,
+		"science": 2,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredTech": "Biology"
+	},
+	{
 		"name": "National Academy of Science",
 		"cost": 525,
 		"science": 5,
@@ -72,6 +88,14 @@
 		"maintenance": 2,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured","Only available <after adopting [Autocracy]>","[-20]% Unhappiness from [Population] [in this city]"]
+	},
+	{
+		"name": "Movie Theatre",
+		"happiness": 5,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Theatre",
+		"requiredTech": "Radio"
 	},
 	{   
 		"name": "Arcade",
