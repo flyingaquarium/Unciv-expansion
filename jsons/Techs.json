@@ -109,7 +109,7 @@
 			},
 			{
 				"name": "Fusion Propulsion",
-				"row": 5,
+				"row": 1,
 				"prerequisites": ["Particle Physics","Nuclear Fusion","Advanced Ballistics"],
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
 			},
