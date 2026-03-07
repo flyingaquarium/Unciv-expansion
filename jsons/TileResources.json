@@ -5,5 +5,11 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Graphene",
 		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Deutirium",
+		"resourceType": "Strategic",
+		"revealedBy": "Nuclear Fusion",
+		"uniques": ["Doesn't generate naturally"]
 	}
 ]
