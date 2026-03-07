@@ -38,7 +38,7 @@
 		"uniqueTo": "Germany",
 		"production": 5,
 		"percentStatBonus": {"production": 15},
-		"specialistSlots": {"Engineer": 2},       // this is called efficency my boi
+		"specialistSlots": {"Engineer": 2},       // this ist called efficency mein boiii
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
