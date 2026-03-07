@@ -73,6 +73,14 @@
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured","Only available <after adopting [Autocracy]>","[-20]% Unhappiness from [Population] [in this city]"]
 	},
+	{   
+		"name": "Arcade",
+		"culture": 3,
+		"happiness": 4,
+		"maintenance": 2,
+		"requiredTech": "Computers",
+		"uniques": ["Only available <after adopting [Freedom]>"]
+	},
 	{
 		"name": "National Institution of Taxation",
 		"gold": 2,
@@ -83,11 +91,20 @@
 		"uniques": ["[+1 Gold] per [1] population [in all cities]"]
 	},
 	{
+		"name": "Gosteleradio",
+		"culture": 8,
+		"happiness": 4,
+		"percentStatBonus": {"culture": 30},
+		"maintenance": 4,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Only available <if [Broadcast Tower] is constructed in all [non-[Puppeted]] cities>","Cost increases by [30] per owned city","Only available <after adopting [Order]>","[+1 Culture] per [2] population [in all cities]"]
+	},
+	{
 		"name": "Ministry of truth",
 		"culture": -5,
 		"hurryCostModifier": 1,
 		"happiness": -5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <after adopting [Fascism]>","[-20]% Unhappiness from [Population] [in all cities]","Cost increases by [50] per owned city"]
+		"uniques": ["Only available <after adopting [Fascism]>","[-20]% Unhappiness from [Population] [in all cities]","Cost increases by [50] per owned city","Only available <if [Propaganda Center] is constructed in all [non-[Puppeted]] cities>"]
 	}
 ]
