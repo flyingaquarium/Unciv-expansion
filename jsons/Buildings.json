@@ -101,9 +101,10 @@
 	},
 	{
 		"name": "Ministry of truth",
-		"culture": -5,
+		"culture": -10,
+		"cost": 460
 		"hurryCostModifier": 1,
-		"happiness": -5,
+		"happiness": -12,
 		"isNationalWonder": true,
 		"uniques": ["Only available <after adopting [Fascism]>","[-20]% Unhappiness from [Population] [in all cities]","Cost increases by [50] per owned city","Only available <if [Propaganda Center] is constructed in all [non-[Puppeted]] cities>"]
 	}
