@@ -59,7 +59,6 @@
 		"requiredTech": "Steam Power",
 		"uniques": ["[+2 Production] [in all cities]"]
 	},
-	
 	{
 		"name": "National Academy of Science",
 		"cost": 525,
