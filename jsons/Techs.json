@@ -102,18 +102,28 @@
 		"wonderCost": 1250,
 		"techs": [
 			{
+				"name": "Advanced Biology",
+				"row": 5,
+				"prerequisites": ["Globalization"],
+				"quote": "Biology have been transcended",
+			},
+			{
 				"name": "Fusion Propulsion",
-				"row": 3,
-				"prerequisites": ["Particle Physics","Nuclear Fusion"],
-				"uniques": ["Can be continually researched"],
+				"row": 5,
+				"prerequisites": ["Particle Physics","Nuclear Fusion","Advanced Ballistics"],
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
 			},
 			{
 				"name": "Graphene",
-				"row": ,
+				"row": 7,
 				"prerequisites": ["Nanotechnology"],
-				"uniques": ["Can be continually researched"],
 				"quote": "'We never thought simple 2D crystals were possible'- A Physicist",
+			},
+			{
+				"name": "Battle Lasers",
+				"row": 7,
+				"prerequisites": ["Lasers"],
+				"quote": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH'- Mark Welson"
 			},
 		]
 	},
