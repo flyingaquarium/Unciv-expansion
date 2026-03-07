@@ -103,13 +103,13 @@
 		"techs": [
 			{
 				"name": "Advanced Biology",
-				"row": 5,
+				"row": 1,
 				"prerequisites": ["Globalization"],
 				"quote": "Biology have been transcended",
 			},
 			{
 				"name": "Fusion Propulsion",
-				"row": 1,
+				"row": 5,
 				"prerequisites": ["Particle Physics","Nuclear Fusion","Advanced Ballistics"],
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
 			},
