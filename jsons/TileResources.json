@@ -1,8 +1,9 @@
 [
-   {
+	// Lol resources
+	{
 		"name": "Graphene",
 		"resourceType": "Strategic",
-		"revealedBy": "Graphene",,
+		"revealedBy": "Graphene",
 		"uniques": ["Doesn't generate naturally"]
-	 }
+	}
 ]
