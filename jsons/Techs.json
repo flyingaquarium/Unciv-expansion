@@ -121,7 +121,7 @@
 			},
 			{
 				"name": "Battle Lasers",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Lasers"],
 				"quote": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH'- Mark Welson"
 			},
