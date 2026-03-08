@@ -132,6 +132,12 @@
 		"uniques": ["Provides [1] [Graphene]"]
 	},
 	{
+		"name": "Heavy Water Plant",
+		"maintenance": 5,
+		"requiredTech": "Nuclear Fusion",
+		"uniques": ["Provides [1] [Deuterium]"]
+	},
+	{
 		"name": "Ministry of truth",
 		"culture": -10,
 		"cost": 460
