@@ -21,6 +21,7 @@
 		"name": "Food",
 		"food": 1,
 		"cost": 1,
+		"percentStatBonus": {"food": 500},
 		"hurryCostModifier": 2000,
 		"requiredTech": "Industrialization",
 	},
