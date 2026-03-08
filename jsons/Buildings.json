@@ -22,7 +22,7 @@
 		"food": 2,
 		"cost": 1,
 		"hurryCostModifier": 2000,
-		"percentStatBonus": {"food": 300},
+		"uniques": ["+3 Food] per [1] population [in this city]"],
 		"requiredTech": "Industrialization",
 	},
 	{
