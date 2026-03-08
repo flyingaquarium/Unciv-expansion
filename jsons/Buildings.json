@@ -18,6 +18,14 @@
 		"requiredTech": "Agriculture"
 	},
 	{
+		"name": "Food",
+		"food": 2,
+		"cost": 1,
+		"hurryCostModifier": 2000,
+		"percentStatBonus": {"food": 300},
+		"requiredTech": "Industrialization",
+	},
+	{
 		"name": "Bronze Foundry",
 		"maintenance": 1,
 		"production": 2,
