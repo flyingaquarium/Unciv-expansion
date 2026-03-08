@@ -125,7 +125,7 @@
 		"uniques": ["Only available <if [Broadcast Tower] is constructed in all [non-[Puppeted]] cities>","Cost increases by [30] per owned city","Only available <after adopting [Order]>","[+1 Culture] per [2] population [in all cities]"]
 	},
 	{
-		"name": "Recycling Center",
+		"name": "Graphene Plant",
 		"maintenance": 5,
 		"requiredResource": "Coal",
 		"requiredTech": "Graphene",
