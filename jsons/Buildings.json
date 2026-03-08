@@ -126,7 +126,7 @@
 	},
 	{
 		"name": "Graphene Plant",
-		"maintenance": 5,
+		"maintenance": 3,
 		"requiredResource": "Coal",
 		"requiredTech": "Graphene",
 		"uniques": ["Provides [1] [Graphene]"]
