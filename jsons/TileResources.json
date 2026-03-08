@@ -7,7 +7,7 @@
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
-		"name": "Deutirium",
+		"name": "Deuterium",
 		"resourceType": "Strategic",
 		"revealedBy": "Nuclear Fusion",
 		"uniques": ["Doesn't generate naturally"]
