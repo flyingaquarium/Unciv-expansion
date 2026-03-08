@@ -23,14 +23,14 @@
 		"cost": 1,
 		"hurryCostModifier": 2000,
 		"percentStatBonus": {"production": 300},
-		"uniques": ["+5 Food] per [1] population [in this city]"],
+		"uniques": ["[+5 Food] per [1] population [in this city]"],
 		"requiredTech": "Industrialization",
 	},
 	{
 		"name": "happy",
 		"cost": 1,
 		"hurryCostModifier": 2000,
-		"uniques": ["+5 Food] per [1] population [in this city]","[-100]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-100]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Industrialization",
 	},
 	{
