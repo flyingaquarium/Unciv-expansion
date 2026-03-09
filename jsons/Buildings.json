@@ -18,18 +18,16 @@
 		"requiredTech": "Agriculture"
 	},
 	{
-		"name": "Food",
-		"food": 1,
-		"cost": 1,
-		"percentStatBonus": {"food": 500},
-		"hurryCostModifier": 2000,
-		"requiredTech": "Industrialization",
+		"name": "FOOD",
+		"maintenance": 1,
+		"hurryCostModifier": 1200,
+		"uniques": ["[500]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Industrialization"
 	},
 	{
 		"name": "happy",
 		"cost": 1,
 		"hurryCostModifier": 2000,
-		"percentStatBonus": {"food": 500},
 		"uniques": ["[-100]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Industrialization",
 	},
