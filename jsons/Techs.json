@@ -108,10 +108,10 @@
 				"quote": "Printing Food is always better than killing animals - Vegan D. Karen",
 			},
 			{
-				"name": "Exotic Mater",
+				"name": "Exotic Matter",
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology"],
-				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
+				"quote": "'Exotic Matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hundenberg",
 			},
 			{
 				"name": "Fusion Propulsion",
