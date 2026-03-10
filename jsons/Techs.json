@@ -102,16 +102,28 @@
 		"wonderCost": 1250,
 		"techs": [
 			{
-				"name": "Advanced Biology",
+				"name": "Bioprinting",
 				"row": 1,
 				"prerequisites": ["Globalization"],
-				"quote": "Biology have been transcended",
+				"quote": "Printing Food is always better than killing animals - Vegan D. Karen",
+			},
+			{
+				"name": "Exotic Mater",
+				"row": 3,
+				"prerequisites": ["Particle Physics","Nanotechnology"],
+				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
 			},
 			{
 				"name": "Fusion Propulsion",
 				"row": 5,
 				"prerequisites": ["Particle Physics","Nuclear Fusion","Advanced Ballistics"],
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
+			},
+			{
+				"name": "Cold Fusion",
+				"row": 5,
+				"prerequisites": ["Particle Physics","Nuclear Fusion"],
+				"quote": "'Anything revolutionary will start simply' - Herrington",
 			},
 			{
 				"name": "Graphene",
@@ -128,6 +140,87 @@
 		]
 	},
 	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 14000,
+		"buildingCost": 1200,
+		"wonderCost": 1950,
+		"techs": [
+			{
+				"name": "Terraforming",
+				"row": 1,
+				"prerequisites": ["Advanced Biology"],
+				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
+			},
+			{
+				"name": "Exotic Fuel",
+				"row": 5,
+				"prerequisites": ["Fusion Propulsion","Exotic Matter"],
+				"quote": "'Ít's Like unexplosive jet fuel'- Pilot Harald ray",
+			},
+			{
+				"name": "Super Alloy",
+				"row": 7,
+				"prerequisites": ["Exotic Matter"],
+				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin",
+			},
+			{
+				"name": "Railguns",
+				"row": 9,
+				"prerequisites": ["Battle Lasers"],
+				"quote": "'What i have done'- Admiral Roland S. Key"
+			},
+		]
+	},
+	{
+		"columnNumber": 19,
+		"era": "Future era",
+		"techCost": 14000,
+		"buildingCost": 1200,
+		"wonderCost": 1950,
+		"techs": [
+			{
+				"name": "Bio Armor",
+				"row": 1,
+				"prerequisites": ["Terraforming"],
+				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson",
+			},
+			{
+				"name": "Alcubierre Bubbles",
+				"row": 5,
+				"prerequisites": ["Exotic Fuel"],
+				"quote": "'FTL is possible. Finally '- Holbert Enstein",
+			},
+			{
+				"name": "Energy Shields",
+				"row": 7,
+				"prerequisites": ["Exotic Matter"],
+				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
+			},
+			{
+				"name": "Plasmacannons",
+				"row": 9,
+				"prerequisites": ["Railguns"],
+				"quote": "'PROTECT NEO-TENOCHTITLAN AT ALL COST'- Montezuma III"
+			},
+		]
+	},
+	{
+		"columnNumber": 20,
+		"era": "Future era",
+		"techCost": 11109500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Megastrucutres",
+				"row": 7,
+				"prerequisites": ["Bio Armor","Alcubierre Bubbles","Energy Shields","Plasmacannons"],
+				"quote": "'We have accended this far. time to conquer stars'- Commander Hans Krieger"
+			}
+		]
+	}
+	{
 		"columnNumber": 150,
 		"era": "Future era",
 		"techCost": 11109500,
@@ -137,7 +230,7 @@
 			{
 				"name": "Future Tech",
 				"row": 7,
-				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"prerequisites": ["Megastrucutres"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'POLANDBALL IS INTO FUTURE'- Polandball the wisest",
                 "civilopediaText": [{"text": "Who knows what the future holds? POLANDBALL KNOWS"}]
