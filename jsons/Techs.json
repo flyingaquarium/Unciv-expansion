@@ -103,7 +103,7 @@
 		"techs": [
 			{
 				"name": "Bioprinting",
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Globalization"],
 				"quote": "Printing Food is always better than killing animals - Vegan D. Karen",
 			},
@@ -121,7 +121,7 @@
 			},
 			{
 				"name": "Cold Fusion",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Particle Physics","Nuclear Fusion"],
 				"quote": "'Anything revolutionary will start simply' - Herrington",
 			},
@@ -147,9 +147,9 @@
 		"wonderCost": 1950,
 		"techs": [
 			{
-				"name": "Terraforming",
-				"row": 1,
-				"prerequisites": ["Advanced Biology"],
+				"name": "Advanced Biology",
+				"row": 2,
+				"prerequisites": ["Bioprinting"],
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
 			},
 			{
@@ -180,9 +180,15 @@
 		"wonderCost": 1950,
 		"techs": [
 			{
-				"name": "Bio Armor",
+				"name": "Terraforming",
 				"row": 1,
-				"prerequisites": ["Terraforming"],
+				"prerequisites": ["Advanced Biology"],
+				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
+			},
+			{
+				"name": "Bio Armor",
+				"row": 2,
+				"prerequisites": ["Advanced Biology"],
 				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson",
 			},
 			{
@@ -194,7 +200,7 @@
 			{
 				"name": "Energy Shields",
 				"row": 7,
-				"prerequisites": ["Exotic Matter"],
+				"prerequisites": ["Super Alloy"],
 				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
 			},
 			{
@@ -230,7 +236,7 @@
 			{
 				"name": "Future Tech",
 				"row": 7,
-				"prerequisites": ["Megastrucutres"],
+				"prerequisites": ["Megastrucutres","Terraforming"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'POLANDBALL IS INTO FUTURE'- Polandball the wisest",
                 "civilopediaText": [{"text": "Who knows what the future holds? POLANDBALL KNOWS"}]
