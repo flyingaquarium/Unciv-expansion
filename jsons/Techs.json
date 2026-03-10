@@ -161,7 +161,7 @@
 			{
 				"name": "Super Alloy",
 				"row": 7,
-				"prerequisites": ["Exotic Matter"],
+				"prerequisites": ["Exotic Matter","Graphene"],
 				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin",
 			},
 			{
