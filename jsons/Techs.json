@@ -147,12 +147,6 @@
 		"wonderCost": 1950,
 		"techs": [
 			{
-				"name": "Terraforming",
-				"row": 1,
-				"prerequisites": ["Advanced Biology"],
-				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
-			},
-			{
 				"name": "Advanced Biology",
 				"row": 2,
 				"prerequisites": ["Bioprinting"],
@@ -185,6 +179,12 @@
 		"buildingCost": 1200,
 		"wonderCost": 1950,
 		"techs": [
+			{
+				"name": "Terraforming",
+				"row": 1,
+				"prerequisites": ["Advanced Biology"],
+				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
+			},
 			{
 				"name": "Bio Armor",
 				"row": 2,
