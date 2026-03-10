@@ -91,7 +91,7 @@
 				"row": 9,
 				"prerequisites": ["Lasers"],
 				"quote": "THISONLY PROVES MY POINT EVEN MORE !!!'- Mark Welson"
-			},
+			}
 		]
 	},
 	{
@@ -136,7 +136,7 @@
 				"row": 9,
 				"prerequisites": ["Advanced Lasers"],
 				"quote": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH'- Mark Welson"
-			},
+			}
 		]
 	},
 	{
@@ -169,7 +169,7 @@
 				"row": 9,
 				"prerequisites": ["Battle Lasers"],
 				"quote": "'What i have done'- Admiral Roland S. Key"
-			},
+			}
 		]
 	},
 	{
@@ -219,7 +219,7 @@
 				"quote": "'We have accended this far. time to conquer stars'- Commander Hans Krieger"
 			}
 		]
-	}
+	},
 	{
 		"columnNumber": 24,
 		"era": "Future era",
