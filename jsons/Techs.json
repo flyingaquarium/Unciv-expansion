@@ -132,6 +132,12 @@
 				"quote": "'We never thought simple 2D crystals were possible'- A Physicist",
 			},
 			{
+				"name": "Nanocomputers",
+				"row": 8,
+				"prerequisites": ["Nanotechnology"],
+				"quote": "'Computing has become this advanced'- Morry Eitein",
+			},
+			{
 				"name": "Battle Lasers",
 				"row": 9,
 				"prerequisites": ["Advanced Lasers"],
@@ -163,6 +169,12 @@
 				"row": 7,
 				"prerequisites": ["Exotic Matter","Graphene"],
 				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin",
+			},
+			{
+				"name": "Advanced Robotics",
+				"row": 8,
+				"prerequisites": ["Nanocomputers"],
+				"quote": "'Robots are really advanced. Better not hurt them'- Mr.Lee",
 			},
 			{
 				"name": "Railguns",
@@ -204,6 +216,12 @@
 				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
 			},
 			{
+				"name": "Supercomputing",
+				"row": 8,
+				"prerequisites": ["Advanced Robotics"],
+				"quote": "'The better the computer is, the more chance to be tactically superior'- Geeral K. Roller",
+			},
+			{
 				"name": "Plasmacannons",
 				"row": 9,
 				"prerequisites": ["Railguns"],
@@ -221,7 +239,7 @@
 			{
 				"name": "Megastrucutres",
 				"row": 7,
-				"prerequisites": ["Bio Armor","Alcubierre Bubbles","Energy Shields","Plasmacannons","Terraforming"],
+				"prerequisites": ["Bio Armor","Alcubierre Bubbles","Energy Shields","Plasmacannons","Terraforming","Supercomputing"],
 				"quote": "'We have accended this far. time to conquer stars'- Commander Hans Krieger"
 			}
 		]
