@@ -215,6 +215,7 @@
 		"percentStatBonus": {"production": 15},
 		"maintenance": 6,
 		"requiredResource": "Exotic Matter",
+		"requiredTech": "Exotic Matter"
 	},
 	{
 		"name": "AI Data Center",
