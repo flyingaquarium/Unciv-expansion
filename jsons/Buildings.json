@@ -181,8 +181,8 @@
 		"cost": 350,
 		"maintenance": 1,
 		"requiredTech": "Graphene",
-		"uniques": ["Population loss from nuclear attacks [-10]% [in this city]",
-			"Damage to garrison from nuclear attacks [-5]% [in this city]",
+		"uniques": ["Population loss from nuclear attacks [-25]% [in this city]",
+			"Damage to garrison from nuclear attacks [-20]% [in this city]",
 			"Only available <when nuclear weapons are enabled> <hidden from users>"]
 	},
 	{
@@ -197,7 +197,7 @@
 		"cityHealth": 40,
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Military Base",
-		"requiredTech": "Railgun",
+		"requiredTech": "Railguns",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
