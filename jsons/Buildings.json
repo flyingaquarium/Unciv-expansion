@@ -18,22 +18,6 @@
 		"requiredTech": "Agriculture"
 	},
 	{
-		"name": "FOOD",
-		"maintenance": 1,
-		"cost":1,
-		"hurryCostModifier": 1200,
-		"percentStatBonus": {"food": 100},
-		"uniques": ["[+4 Food] per [1] population [in this city]"],
-		"requiredTech": "Industrialization"
-	},
-	{
-		"name": "happy",
-		"cost": 1,
-		"hurryCostModifier": 2000,
-		"uniques": ["[-100]% Unhappiness from [Population] [in all cities]"],
-		"requiredTech": "Industrialization",
-	},
-	{
 		"name": "Bronze Foundry",
 		"maintenance": 1,
 		"production": 2,
@@ -141,6 +125,13 @@
 		"uniques": ["Only available <if [Broadcast Tower] is constructed in all [non-[Puppeted]] cities>","Cost increases by [30] per owned city","Only available <after adopting [Order]>","[+1 Culture] per [2] population [in all cities]"]
 	},
 	{
+		"name": "Nuclear Hadron Collider",
+		"maintenance": 4,
+		"requiredResource": "Deuterium",
+		"requiredTech": "Exotic Matter",
+		"uniques": ["Provides [1] [Exotic Matter]"]
+	},
+	{
 		"name": "Graphene Plant",
 		"maintenance": 3,
 		"requiredResource": "Coal",
@@ -154,12 +145,65 @@
 		"uniques": ["Provides [1] [Deuterium]"]
 	},
 	{
+		"name": "VR Hub",
+		"maintenance": 15, //WDYM BY 15 maintenace
+		"cost": 460
+		"requiredTech": "Nanocomputers",
+		"uniques": ["[-5]% Unhappiness from [Population] [in this city]","Requires at least [10] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
+	},
+	{
+		"name": "Bioprinter",
+		"maintenance": 10,
+		"food": 25,
+		"requiredTech": "Bioprinting"
+	},
+	{
+		"name": "Food Replicator",
+		"maintenance": 35,
+		"cost":1000,
+		"hurryCostModifier": 10,
+		"percentStatBonus": {"food": 100},
+		"uniques": ["[+4 Food] per [1] population [in this city]"],
+		"requiredTech": "Advanced Biology"
+	},
+	{
+		"name": "Tank Factory",
+		"production": 3,
+        "maintenance": 5,
+		"requiredResource": "Graphene",
+		"cost": 360,
+		"requiredBuilding": "Factory",
+		"uniques": ["[+50]% Production when constructing [Armored] units [in this city]"],
+		"requiredTech": "Advanced Robotics"
+	},
+	{
+		"name": "Mining Facility",
+		"maintenance": 8,
+		"requiredTech": "Advanced Robotics",
+		"uniques": ["Limited to [10] per Civilization","[+100]% [Strategic] resource production"]
+	},
+	{
+		"name": "E-Fuel Plant",
+		"production": 10,
+		"percentStatBonus": {"production": 15},
+		"maintenance": 6,
+		"requiredResource": "Exotic Matter",
+	},
+	{
+		"name": "AI Data Center",
+        "maintenance": 7,
+		"happiness":1,
+		"science": 5,
+		"percentStatBonus": {"science": 55},
+		"requiredTech": "Supercomputing"
+	},
+	{
 		"name": "Ministry of truth",
 		"culture": -10,
 		"cost": 460
 		"hurryCostModifier": 1,
 		"happiness": -12,
 		"isNationalWonder": true,
-		"uniques": ["Only available <after adopting [Fascism]>","[-20]% Unhappiness from [Population] [in all cities]","Cost increases by [50] per owned city","Only available <if [Propaganda Center] is constructed in all [non-[Puppeted]] cities>"]
+		"uniques": ["Only available <after adopting [Fascism]>","[-60]% Unhappiness from [Population] [in all cities]","Cost increases by [50] per owned city","Only available <if [Propaganda Center] is constructed in all [non-[Puppeted]] cities>"]
 	}
 ]
