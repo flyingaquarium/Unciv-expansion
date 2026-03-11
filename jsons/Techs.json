@@ -179,7 +179,7 @@
 			{
 				"name": "Railguns",
 				"row": 9,
-				"prerequisites": ["Battle Lasers"],
+				"prerequisites": ["Battle Lasers","Exotic Matter"],
 				"quote": "'What i have done'- Admiral Roland S. Key"
 			}
 		]
