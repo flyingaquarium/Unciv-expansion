@@ -177,10 +177,37 @@
 		"requiredTech": "Advanced Robotics"
 	},
 	{
+		"name": "Reinforced Bomb Shelter",
+		"cost": 350,
+		"maintenance": 1,
+		"requiredTech": "Graphene",
+		"uniques": ["Population loss from nuclear attacks [-10]% [in this city]",
+			"Damage to garrison from nuclear attacks [-5]% [in this city]",
+			"Only available <when nuclear weapons are enabled> <hidden from users>"]
+	},
+	{
 		"name": "Mining Facility",
 		"maintenance": 8,
 		"requiredTech": "Advanced Robotics",
 		"uniques": ["Limited to [10] per Civilization","[+100]% [Strategic] resource production"]
+	},
+	{
+		"name": "AE Defensive Railgun Unit",
+		"cityStrength": 20,
+		"cityHealth": 40,
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Military Base",
+		"requiredTech": "Railgun",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Deflector Dome",
+		"cityStrength": 20,
+		"cityHealth": 50,
+		"hurryCostModifier": 9,
+		"requiredBuilding": "AE Defensive Railgun Unit",
+		"requiredTech": "Energy Shields",
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "E-Fuel Plant",
