@@ -2,28 +2,28 @@
   {
 		"name": "Discipline I",
 		"uniques": ["[+25]% Strength <vs [All] units>"],
-    "column": 9,
+    "column": 12,
     "row": 1
 	},
   {
 		"name": "Discipline II",
-		"prerequisites": ["Discipline i"],
+		"prerequisites": ["Discipline I"],
 		"uniques": ["[+75]% Strength <vs [All] units>"],
-    "column": 9,
+    "column": 12,
     "row": 2
   },
   {
 		"name": "Discipline III",
-		"prerequisites": ["Discipline ii"],
+		"prerequisites": ["Discipline II"],
 		"uniques": ["[+100]% Strength <vs [All] units>"],
-    "column": 9,
+    "column": 12,
     "row": 3
   },
   {
 		"name": "Discipline IV",
-		"prerequisites": ["Discipline iii"],
+		"prerequisites": ["Discipline III"],
 		"uniques": ["[+125]% Strength <vs [All] units>"],
-    "column": 9,
+    "column": 12,
     "row": 4
   }
 ]
