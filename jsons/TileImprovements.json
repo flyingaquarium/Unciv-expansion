@@ -1,0 +1,21 @@
+[
+  {
+		"name": "Airbase",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
+		"turnsToBuild": 12,
+		"techRequired": "Radar",
+		"uniques": ["Can carry [10] [Aircraft] units"],
+		"shortcutKey": "A"
+  },
+  {
+		"name": "Landcannon",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
+		"turnsToBuild": 12,
+		"techRequired": "Replaceable Parts",
+    "strength": 100,
+		"rangedStrength": 40,
+		"range": 3,
+		"uniques": ["[+150]% Strength <vs [Armored] units>"],
+		"shortcutKey": "A"
+  }
+]
