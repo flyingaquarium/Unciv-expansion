@@ -9,7 +9,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"promotions": ["Discipline I","Discipline II","Discipline III","Discipline IV"],
+		"promotions": ["Discipline I"],
 		"attackSound": "shot"
 	}
 ]
