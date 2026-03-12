@@ -18,7 +18,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"uniques": ["Can transform to [Landgun]"],
+		"uniques": ["Can transform to [Landgun]"], //CUZ I CAN't CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
 		"hurryCostModifier": 20
 	},
 	{
@@ -37,7 +37,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Radar",
-		"uniques": ["Can transform to [Airbase]"],
+		"uniques": ["Can transform to [Airbase]"], //CUZ I CAN't CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
 		"hurryCostModifier": 20
 	},
 	{
