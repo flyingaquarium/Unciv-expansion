@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
 		"turnsToBuild": 12,
 		"techRequired": "Radar",
-		"uniques": ["Can carry [10] [Aircraft] units"],
+		"uniques": ["Free [Musketman] appears"],
 		"shortcutKey": "A"
   },
   {
