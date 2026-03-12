@@ -33,14 +33,55 @@
 	{
 		"name": "Mobile SAL", //sal sam's forgotten cousin
 		"unitType": "Gunpowder", //it makes no sense to put a laser car on a gunpowder. BUT SO DID CIV 5 PUT A MISSILE UNIT ON IT
-		"movement": 4,
+		"movement": 6,
 		"interceptRange": 3,
 		"strength": 40,
-		"cost": 525,
+		"cost": 480,
 		"requiredTech": "Battle Lasers",
 		"uniques": ["[100]% chance to intercept air attacks", "[+200]% Strength <vs [Air] units>",
-			"[+200]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+			"[+200]% Strength <vs [Helicopter] units>"],
 		"attackSound": "Laser1"
+	},
+	{
+		"name": "Laser Gunboat",
+		"unitType": "Helicopter",
+		"movement": 4,
+		"strength": 25,
+		"cost": 525,
+		"requiredTech": "Battle Lasers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit","Never appears as a Barbarian unit","[2] additional attacks per turn","Can move after attacking"],
+		"attackSound": "Laser2"
+	},
+	{
+		"name": "Railgun Artillery",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 50,
+		"rangedStrength": 65,
+		"range": 4,
+		"cost": 505,
+		"requiredTech": "Railguns",
+		"requiredResource": "Exotic Matter",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[+150]% Strength <vs [Armored] units>",
+			"[-1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "Railgun_Earrape"
+	},
+	{
+		"name": "Anti-Spaceship Railgun",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"rangedStrength": 90,
+		"range": 5,
+		"cost": 555,
+		"requiredTech": "Railguns",
+		"requiredResource": "Exotic Matter",
+		"uniques": ["[+700]% Strength <vs [Spaceship] units","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "Railgun_Earrape"
 	},
 	{
 		"name": "Droid",
