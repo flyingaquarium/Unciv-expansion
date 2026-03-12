@@ -11,5 +11,40 @@
 		"upgradesTo": "Rifleman",
 		"promotions": ["Discipline I"],
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "Landgun Parts",
+		"unitType": "Civilian",
+		"movement": 5,
+		"cost": 300,
+		"requiredTech": "Steam Power",
+		"uniques": ["Can transform to [Landgun] <by consuming this unit>"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Landgun",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 20,
+		"rangedStrength": 40,
+		"range": 4,
+		"uniques": ["[150+]% <vs [Armored] units>","Unbuildable"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Airbase Parts",
+		"unitType": "Civilian",
+		"movement": 5,
+		"cost": 300,
+		"requiredTech": "Radar",
+		"uniques": ["Can transform to [Landgun] <by consuming this unit>"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Landgun",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 200,
+		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"],
+	},
 ]
