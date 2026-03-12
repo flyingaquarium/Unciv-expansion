@@ -47,4 +47,14 @@
 		"strength": 200,
 		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"],
 	},
+	{
+		"name": "Droid",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 100,
+		"cost": 400,
+		"requiredTech": "Advanced Robotics",
+		"uniques": ["No damage penalty for wounded units"],
+		"attackSound": "gdrAttack"
+	},
 ]
