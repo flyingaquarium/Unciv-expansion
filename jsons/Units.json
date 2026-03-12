@@ -67,7 +67,7 @@
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[+150]% Strength <vs [Armored] units>",
 			"[-1] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
-		"attackSound": "Railgun_Earrape"
+		"attackSound": "Railgun"
 	},
 	{
 		"name": "Anti-Spaceship Railgun",
@@ -81,7 +81,7 @@
 		"requiredResource": "Exotic Matter",
 		"uniques": ["[+700]% Strength <vs [Spaceship] units","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
-		"attackSound": "Railgun_Earrape"
+		"attackSound": "Railgun"
 	},
 	{
 		"name": "Droid",
@@ -107,7 +107,7 @@
 		"strength": 20,
 		"rangedStrength": 80,
 		"range": 4,
-		"uniques": ["[+150]% <vs [Armored] units>","Unbuildable"],
-		"attackSound": "artillery"
+		"uniques": ["[+150]% Strength <vs [Armored] units","Unbuildable"],
+		"attackSound": "Landgun"
 	},
 ]
