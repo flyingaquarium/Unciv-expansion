@@ -18,7 +18,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"uniques": ["Can transform to [Landgun] <by consuming this unit>"],
+		"uniques": ["Can transform to [Landgun]"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -28,7 +28,7 @@
 		"strength": 20,
 		"rangedStrength": 40,
 		"range": 4,
-		"uniques": ["[150+]% <vs [Armored] units>","Unbuildable"],
+		"uniques": ["[+150]% <vs [Armored] units>","Unbuildable"],
 		"attackSound": "artillery"
 	},
 	{
@@ -37,11 +37,11 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Radar",
-		"uniques": ["Can transform to [Landgun] <by consuming this unit>"],
+		"uniques": ["Can transform to [Airbase]"],
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Landgun",
+		"name": "Airbase",
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 200,
