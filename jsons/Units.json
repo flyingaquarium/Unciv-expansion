@@ -26,7 +26,7 @@
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 20,
-		"rangedStrength": 40,
+		"rangedStrength": 80,
 		"range": 4,
 		"uniques": ["[+150]% <vs [Armored] units>","Unbuildable"],
 		"attackSound": "artillery"
