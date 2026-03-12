@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
 		"turnsToBuild": 1,
 		"techRequired": "Radar",
-		"uniques": ["Free [Musketman] appears"],
+		"uniques": ["Free [Marine] appears"],
 		"shortcutKey": "A"
   },
   {
@@ -12,10 +12,6 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
 		"turnsToBuild": 12,
 		"techRequired": "Replaceable Parts",
-    "strength": 100,
-		"rangedStrength": 40,
-		"range": 3,
-		"uniques": ["[+150]% Strength <vs [Armored] units>"],
 		"shortcutKey": "A"
   }
 ]
