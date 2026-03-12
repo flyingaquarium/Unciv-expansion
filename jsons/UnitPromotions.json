@@ -3,7 +3,7 @@
 		"name": "Discipline I",
 		"uniques": ["[+25]% Strength <vs [All] units>"],
 	  "unitTypes": ["Gunpowder"],
-    "column": 11,
+    "column": 27,
     "row": 2
 	},
   {
@@ -11,7 +11,7 @@
 		"prerequisites": ["Discipline I"],
 		"uniques": ["[+75]% Strength <vs [All] units>"],
 	  "unitTypes": ["Gunpowder"],
-    "column": 11,
+    "column": 27,
     "row": 3
   },
   {
@@ -19,7 +19,7 @@
 		"prerequisites": ["Discipline II"],
 		"uniques": ["[+100]% Strength <vs [All] units>"],
 	  "unitTypes": ["Gunpowder"],
-    "column": 11,
+    "column": 27,
     "row": 4
   },
   {
@@ -27,7 +27,7 @@
 		"prerequisites": ["Discipline III"],
 		"uniques": ["[+125]% Strength <vs [All] units>"],
 	  "unitTypes": ["Gunpowder"],
-    "column": 11,
+    "column": 27,
     "row": 5
   }
 ]
