@@ -149,7 +149,7 @@
 		"maintenance": 15, //WDYM BY 15 maintenace
 		"cost": 460
 		"requiredTech": "Nanocomputers",
-		"uniques": ["[-5]% Unhappiness from [Population] [in this city]","Requires at least [10] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
+		"uniques": ["[-100]% Unhappiness from [Population] [in this city]","Requires at least [10] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
 	},
 	{
 		"name": "Bioprinter",
