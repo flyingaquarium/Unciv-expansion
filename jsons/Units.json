@@ -5,12 +5,11 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Germany",
 		"movement": 2,
-		"strength": 32,
-		"cost": 149,
+		"strength": 33,
+		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Future Tech",
-		"promotions": ["Discipline I"],
+		"promotions": ["Discipline I","Discipline II","Discipline III","Discipline IV"],
 		"attackSound": "shot"
 	}
 ]
