@@ -1,33 +1,23 @@
 [
   {
 		"name": "Discipline I",
-		"uniques": ["[+25]% Strength <vs [All] units>"],
-	  "unitTypes": ["Gunpowder"],
+		"uniques": ["[+25]% Strength <vs [All] units>"]
     "column": 27,
     "row": 2
 	},
   {
 		"name": "Discipline II",
 		"prerequisites": ["Discipline I"],
-		"uniques": ["[+75]% Strength <vs [All] units>"],
-	  "unitTypes": ["Gunpowder"],
-    "column": 27,
-    "row": 3
+		"uniques": ["[+75]% Strength <vs [All] units>"]
   },
   {
 		"name": "Discipline III",
 		"prerequisites": ["Discipline II"],
-		"uniques": ["[+100]% Strength <vs [All] units>"],
-	  "unitTypes": ["Gunpowder"],
-    "column": 27,
-    "row": 4
+		"uniques": ["[+100]% Strength <vs [All] units>"]
   },
   {
 		"name": "Discipline IV",
 		"prerequisites": ["Discipline III"],
-		"uniques": ["[+125]% Strength <vs [All] units>"],
-	  "unitTypes": ["Gunpowder"],
-    "column": 27,
-    "row": 5
+		"uniques": ["[+125]% Strength <vs [All] units>"]
   }
 ]
