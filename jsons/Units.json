@@ -22,16 +22,6 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Landgun",
-		"unitType": "Siege",
-		"movement": 0,
-		"strength": 20,
-		"rangedStrength": 80,
-		"range": 4,
-		"uniques": ["[+150]% <vs [Armored] units>","Unbuildable"],
-		"attackSound": "artillery"
-	},
-	{
 		"name": "Airbase Parts",
 		"unitType": "Civilian",
 		"movement": 5,
@@ -41,11 +31,16 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Airbase",
-		"unitType": "Siege",
-		"movement": 0,
-		"strength": 200,
-		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"],
+		"name": "Mobile SAL", //sal sam's forgotten cousin
+		"unitType": "Gunpowder", //it makes no sense to put a laser car on a gunpowder. BUT SO DID CIV 5 PUT A MISSILE UNIT ON IT
+		"movement": 4,
+		"interceptRange": 3,
+		"strength": 40,
+		"cost": 525,
+		"requiredTech": "Battle Lasers",
+		"uniques": ["[100]% chance to intercept air attacks", "[+200]% Strength <vs [Air] units>",
+			"[+200]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "Laser1"
 	},
 	{
 		"name": "Droid",
@@ -56,5 +51,22 @@
 		"requiredTech": "Advanced Robotics",
 		"uniques": ["No damage penalty for wounded units"],
 		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Airbase",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 200,
+		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"],
+	},
+	{
+		"name": "Landgun",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 20,
+		"rangedStrength": 80,
+		"range": 4,
+		"uniques": ["[+150]% <vs [Armored] units>","Unbuildable"],
+		"attackSound": "artillery"
 	},
 ]
