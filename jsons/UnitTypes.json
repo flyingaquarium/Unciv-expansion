@@ -1,0 +1,7 @@
+ [
+   {
+        "name": "Spaceship",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles","[+50]% Strength <when [Embarked]>","[+1] Sight <for [Embarked] units>","[+50]% Strength <vs [Water]> units"]
+    }
+ ]
