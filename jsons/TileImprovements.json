@@ -2,7 +2,7 @@
   {
 		"name": "Airbase",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
-		"turnsToBuild": 12,
+		"turnsToBuild": 1,
 		"techRequired": "Radar",
 		"uniques": ["Free [Musketman] appears"],
 		"shortcutKey": "A"
