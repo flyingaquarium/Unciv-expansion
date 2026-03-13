@@ -159,6 +159,12 @@
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
 			},
 			{
+				"name": "Magnetic Shields",
+				"row": 4,
+				"prerequisites": ["Exotic Matter"],
+				"quote": "'We're only steps away from Energy shields'- Sir Piebald Fluffington, archduke of pawstria",
+			},
+			{
 				"name": "Exotic Fuel",
 				"row": 5,
 				"prerequisites": ["Fusion Propulsion","Exotic Matter"],
@@ -212,7 +218,7 @@
 			{
 				"name": "Energy Shields",
 				"row": 7,
-				"prerequisites": ["Super Alloy"],
+				"prerequisites": ["Super Alloy","Magnetic Shields"],
 				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
 			},
 			{
