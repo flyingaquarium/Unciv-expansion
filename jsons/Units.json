@@ -181,4 +181,56 @@
 		"uniques": ["[+150]% Strength <vs [Armored] units>","Unbuildable"],
 		"attackSound": "Landgun"
 	},
+	      //DAS ORION PARTS
+	{
+		"name": "Nuclear Pulse Unit",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Fusion Propulsion",
+		"requiredResource": "Deuterium",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Pusher Plate",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Super Alloy",
+		"requiredResource": "Exotic Matter",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Habitation Module",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Graphene",
+		"requiredResource": "Graphene",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Radiation Shadow Shield",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Magnetic Shields",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Inertial Navigation Package",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Advanced Robotics",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Support Struts",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 1500,
+		"requiredTech": "Super Alloy",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [2] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
 ]
