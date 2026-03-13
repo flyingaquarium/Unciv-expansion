@@ -1,9 +1,14 @@
 [
-    {
-        "name": "INGSOC",
-        "victoryScreenHeader": "Speedrun ingsoc any%",
-        "milestones": ["Build [Ministry of truth]"]
-        "victoryString": "BIG BRO WON, HAHAHHA",
-        "defeatString": "CRAP INGSOC WON"
-     }
+   {
+        "name": "Extended Scientific",
+        "victoryScreenHeader": "Complete project orion by adding Orion parts, Complete martian program by colonizing mars, BUILD A GENERATIONAL SHIP AND SEND IT SOMEWHERE LIKE ANDROMEDA IDK",
+        "milestones": [
+            "Build [Projeect Orion]","Add all [spaceship parts] in capital","Build [Martian Program]","Build [Project Colonizer]"
+        ],
+        "requiredSpaceshipParts": [
+            "Nuclear Pulse Unit","Pusher Plate","Habitation Module","Radiation Shadow Shield","Inertial Navigation Package","Support Struts","Support Struts","MSS Engine","MSS Crew Module","MSS Navigator Module","Supply Rocket","Supply Rocket","Supply Rocket","Supply Rocket","Crew Rocket","Crew Rocket","Crew Rocket","Fuel Rocket","Generational Ship","Generational Ship","",
+        ],
+        "victoryString": "you won ! that's it. you somehow sent humans to andromeda",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
 ]
