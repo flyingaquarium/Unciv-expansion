@@ -237,7 +237,7 @@
 		"wonderCost": 1250,
 		"techs": [
 			{
-				"name": "Megastrucutres",
+				"name": "Megastructures",
 				"row": 7,
 				"prerequisites": ["Bio Armor","Alcubierre Bubbles","Energy Shields","Plasmacannons","Terraforming","Supercomputing"],
 				"quote": "'We have accended this far. time to conquer stars'- Commander Hans Krieger"
@@ -254,7 +254,7 @@
 			{
 				"name": "Future Tech",
 				"row": 7,
-				"prerequisites": ["Megastrucutres"],
+				"prerequisites": ["Megastructures"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'POLANDBALL IS INTO FUTURE'- Polandball the wisest",
                 "civilopediaText": [{"text": "Who knows what the future holds? POLANDBALL KNOWS"}]
