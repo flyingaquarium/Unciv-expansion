@@ -105,7 +105,7 @@
 		"attackSound": "Laser2"
 	},
 	{
-		"name": "The Annihilator",
+		"name": "Annihilator",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
 		"strength": 3000,
