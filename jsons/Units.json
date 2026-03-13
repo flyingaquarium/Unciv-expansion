@@ -233,4 +233,32 @@
 		"requiredTech": "Super Alloy",
 		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [2] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
 	},
+	   //MARTIAN PROGRAM PARTS
+	{
+		"name": "Supply Rocket",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Exotic Fuel",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Martian Program] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [4] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Crew Rocket",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 4000,
+		"requiredTech": "Exotic Fuel",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Martian Program] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [3] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Fuel Rocket",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 4000,
+		"requiredTech": "Exotic Fuel",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Martian Program] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	     //GENERATIONAL SHIP PARTS
+	
+	
 ]
