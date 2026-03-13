@@ -105,6 +105,18 @@
 		"attackSound": "Laser2"
 	},
 	{
+		"name": "The Annihilator",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 3000,
+		"rangedStrength": 3000,
+		"range": 20,
+		"cost": 20000,
+		"requiredTech": "Exotic Fuel",
+		"uniques": ["Nuclear weapon of Strength [50]","Blast radius [8]", "Consumes [20] [Antimatter]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "Railgun Artillery",
 		"unitType": "Siege",
 		"movement": 3,
@@ -294,7 +306,7 @@
 		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
 	},
 	{
-		"name": "CELSS Module",
+		"name": "CELSS Module", //Controlled Ecological Life Support Systems by NASA
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 2500,
