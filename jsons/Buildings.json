@@ -190,7 +190,7 @@
 		"maintenance": 30,
 		"requiredTech": "Magnetic Shields",
 		"percentStatBonus": {"production": -20},
-		"uniques": ["Provides [1] [Antimatter]","[-80]% Unhappiness from [Antimatter] [in this city]","[-50]% [Growth] [in this city]","Consumes [3] [Deuterium]"]
+		"uniques": ["Provides [1] [Antimatter]","[+10] Happiness from Antimatter","[-50]% growth [in this city]","Consumes [3] [Deuterium]"]
 	},
 	{
 		"name": "Mining Facility",
