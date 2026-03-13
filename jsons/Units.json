@@ -181,7 +181,9 @@
 		"uniques": ["[+150]% Strength <vs [Armored] units>","Unbuildable"],
 		"attackSound": "Landgun"
 	},
-	      //DAS ORION PARTS
+	      //S P A C E  S H I P  P A R T S
+	
+	// ORION AHHHHHHH
 	{
 		"name": "Nuclear Pulse Unit",
 		"unitType": "Civilian",
@@ -260,5 +262,52 @@
 	},
 	     //GENERATIONAL SHIP PARTS
 	
-	
+	{
+		"name": "FTL Module",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Alcubierre Bubbles",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Shielding Module",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Energy Shields",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Habitant",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Megastructures",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>","Requires at least [35] population"] //U NEED PPL TO PUT IN DA HABITANT
+	},
+	{
+		"name": "Command Pod",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Supercomputing",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "CELSS Module",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Terraforming",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	},
+	{
+		"name": "Cargo Hold",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2500,
+		"requiredTech": "Megastructures",
+		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
+	}
 ]
