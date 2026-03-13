@@ -22,7 +22,7 @@
 		"name": "Antimatter",
 		"resourceType": "Strategic",
 		"revealedBy": "Exotic Matter",
-		"happiness": -20,                              //ppl hate it cuz it's explosive
-		"uniques": ["Doesn't generate naturally",]
+		"happiness": -3,                              //ppl hate it cuz it's explosive
+		"uniques": ["Doesn't generate naturally","[-200000 Happiness] <before the [Future era]>"]
 	}
 ]
