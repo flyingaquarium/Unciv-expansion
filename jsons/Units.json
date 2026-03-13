@@ -172,7 +172,7 @@
 		"strength": 800,
 		"cost": 10425,
 		"requiredTech": "Megastructures",
-		"uniques" : ["Consumes [3] [Deuterium]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[3] additional attacks per turn"]
+		"uniques" : ["Consumes [3] [Deuterium]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[3] additional attacks per turn","Never appears as a Barbarian unit"]
 		"attackSound": "Spaceship_Gun"
 	},
 	{
