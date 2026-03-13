@@ -2,6 +2,6 @@
    {
         "name": "Spaceship",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles","[+50]% Strength <when [Embarked]>","[+1] Sight <for [Embarked] units>","[+100]% Strength <vs [Water] units>"]
+        "uniques": ["Can pass through impassable tiles","[+50]% Strength <when [Embarked]>","[+1] Sight <for [Embarked] units>","[+100]% Strength <vs [Water] units>","Ignores Zone of Control","Unable to capture cities","All tiles cost 1 movement"]   
     }
  ]
