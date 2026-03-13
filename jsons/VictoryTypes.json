@@ -6,7 +6,7 @@
             "Build [Projeect Orion]","Add all [spaceship parts] in capital","Build [Martian Program]","Build [Project Colonizer]"
         ],
         "requiredSpaceshipParts": [
-            "Nuclear Pulse Unit","Pusher Plate","Habitation Module","Radiation Shadow Shield","Inertial Navigation Package","Support Struts","Support Struts","Supply Rocket","Supply Rocket","Supply Rocket","Supply Rocket","Crew Rocket","Crew Rocket","Crew Rocket","Fuel Rocket","FTL Module","Shielding Module","Ship Hull",
+            "Nuclear Pulse Unit","Pusher Plate","Habitation Module","Radiation Shadow Shield","Inertial Navigation Package","Support Struts","Support Struts","Supply Rocket","Supply Rocket","Supply Rocket","Supply Rocket","Crew Rocket","Crew Rocket","Crew Rocket","Fuel Rocket","FTL Module","Shielding Module","Habitant","Command Pod","CELSS Module","Cargo Hold"
         ],
         "victoryString": "you won ! that's it. you somehow sent humans to andromeda",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
