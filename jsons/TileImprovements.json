@@ -1,17 +1,1 @@
-[
-  {
-		"name": "Airbase",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
-		"turnsToBuild": 1,
-		"techRequired": "Radar",
-		"uniques": ["Free [Marine] appears"],
-		"shortcutKey": "A"
-  },
-  {
-		"name": "Landcannon",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
-		"turnsToBuild": 12,
-		"techRequired": "Replaceable Parts",
-		"shortcutKey": "A"
-  }
-]
+
