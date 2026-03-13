@@ -146,10 +146,10 @@
 	},
 	{
 		"name": "VR Hub",
-		"maintenance": 15, //WDYM BY 15 maintenace
+		"maintenance": 15, //WDYM BY 15 maintenace, nmv it have 100 happiness
 		"cost": 460
 		"requiredTech": "Nanocomputers",
-		"uniques": ["[-100]% Unhappiness from [Population] [in this city]","Requires at least [10] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
+		"uniques": ["[-100]% Unhappiness from [Population] [in this city]","Requires at least [35] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
 	},
 	{
 		"name": "Bioprinter",
@@ -186,10 +186,17 @@
 			"Only available <when nuclear weapons are enabled> <hidden from users>"]
 	},
 	{
+		"name": "Antimatter Containment Facility",
+		"maintenance": 30,
+		"requiredTech": "Magnetic Shields",
+		"percentStatBonus": {"production": -20},
+		"uniques": ["Provides [1] [Antimatter]","[-80]% Unhappiness from [Antimatter] [in this city]","[-50]% [Growth] [in this city]","Consumes [3] [Deuterium]"]
+	},
+	{
 		"name": "Mining Facility",
-		"maintenance": 8,
+		"maintenance": 10,
 		"requiredTech": "Advanced Robotics",
-		"uniques": ["Limited to [10] per Civilization","[+100]% [Strategic] resource production"]
+		"uniques": ["Limited to [10] per Civilization","[+100]% [Uranium] resource production","[+100]% [Aluminium] resource production","[+100]% [Coal] resource production","[+20]% [Oil] resource production"]
 	},
 	{
 		"name": "AE Defensive Railgun Unit",
@@ -267,5 +274,5 @@
         "civilopediaText": [
             { "text": "IF YOU COMPLETE THIS. YOU CAN MAKE A GENERATIONAL SHIP TO SEND YOUR PEOPLE TO ANDROMEDA. (only takes like 2500 turns with FTL)" }
         ]
-	},
+	}
 ]
