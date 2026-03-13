@@ -31,7 +31,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Mobile SAL", //sal sam's forgotten cousin
+		"name": "Mobile SAL", //sal is sam's forgotten cousin
 		"unitType": "Gunpowder", //it makes no sense to put a laser car on a gunpowder. BUT SO DID CIV 5 PUT A MISSILE UNIT ON IT
 		"movement": 6,
 		"interceptRange": 3,
@@ -79,7 +79,7 @@
 		"cost": 555,
 		"requiredTech": "Railguns",
 		"requiredResource": "Exotic Matter",
-		"uniques": ["[+700]% Strength <vs [Spaceship] units","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques": ["[+700]% Strength <vs [Spaceship] units>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "Railgun"
 	},
@@ -98,7 +98,7 @@
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 200,
-		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"],
+		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"]
 	},
 	{
 		"name": "Landgun",
@@ -107,7 +107,7 @@
 		"strength": 20,
 		"rangedStrength": 80,
 		"range": 4,
-		"uniques": ["[+150]% Strength <vs [Armored] units","Unbuildable"],
+		"uniques": ["[+150]% Strength <vs [Armored] units>","Unbuildable"],
 		"attackSound": "Landgun"
 	},
 ]
