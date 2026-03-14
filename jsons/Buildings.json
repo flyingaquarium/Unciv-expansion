@@ -147,7 +147,7 @@
 	{
 		"name": "VR Hub",
 		"maintenance": 15, //WDYM BY 15 maintenace, nmv it have 100 happiness
-		"cost": 460
+		"cost": 460,
 		"requiredTech": "Nanocomputers",
 		"uniques": ["[-100]% Unhappiness from [Population] [in this city]","Requires at least [35] population"] //NO BOTS PLAYIN' NEED REAL PLAYERS
 	},
@@ -236,7 +236,7 @@
 	{
 		"name": "Ministry of truth",
 		"culture": -10,
-		"cost": 460
+		"cost": 460,
 		"hurryCostModifier": 1,
 		"happiness": -12,
 		"isNationalWonder": true,
