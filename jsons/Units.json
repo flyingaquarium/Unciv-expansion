@@ -62,8 +62,8 @@
 		"cost": 525,
 		"requiredTech": "Battle Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit","Never appears as a Barbarian unit","[2] additional attacks per turn","Can move after attacking"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities","Never appears as a Barbarian unit","[2] additional attacks per turn","Can move after attacking"],
 		"attackSound": "Laser2"
 	},
 	{
@@ -181,7 +181,7 @@
 		"cost": 750,
 		"requiredTech": "Terraforming",
 		"uniques": ["Turn this tile into a [Forest] tile <by consuming this unit>","Turn this tile into a [Jungle] tile <by consuming this unit>",
-			"Requires at least [18] population",],
+			"Requires at least [18] population"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -191,7 +191,7 @@
 		"cost": 750,
 		"requiredTech": "Terraforming",
 		"uniques": ["Turn this tile into a [Lakes] tile <by consuming this unit>","Turn this tile into a [River] tile <by consuming this unit>",
-			"Requires at least [18] population",],
+			"Requires at least [18] population"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -231,7 +231,7 @@
 		"strength": 800,
 		"cost": 45000,
 		"requiredTech": "Megastructures",
-		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion0","[2] additional attacks per turn","Never appears as a Barbarian unit"],
+		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[2] additional attacks per turn","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
 	},
 	{
