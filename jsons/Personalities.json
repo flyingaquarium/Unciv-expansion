@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Polandball",
+    "production": 4,
+    "food": 6,
+    "gold": 4,
+    "science": 8,
+    "culture": 4,
+    "happiness": 5,
+    "faith": 1,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 1,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 10,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 2,
+      "Honor": 3,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 0,
+      "Rationalism": 10,
+      "Freedom": 9,
+      "Autocracy": 0, //polandball hate reichball
+      "Order": 3
+    }
+  }
+]
