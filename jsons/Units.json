@@ -202,7 +202,17 @@
 		"cost": 9750,
 		"requiredTech": "Plasmacannons",
 		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit"],
-		"attackSound": "Spaceship_Gun"
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Class III Gunboat",
+		"unitType": "Spaceship",
+		"movement": 6,
+		"strength": 200,
+		"cost": 9750,
+		"requiredTech": "Plasmacannons",
+		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit","[1] additional attacks per turn"],
+		"attackSound": "Laser1"
 	},
 	{
 		"name": "Space Cruiser",
