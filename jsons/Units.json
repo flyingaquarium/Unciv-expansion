@@ -166,6 +166,16 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "mega Battlewasp",  //Vegans fr gonna hate this
+		"unitType": "Helicopter",
+		"movement": 4,
+		"strength": 300,
+		"cost": 6000,
+		"requiredTech": "Bio Armor",
+		"uniques" : ["Never appears as a Barbarian unit","No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement","Ignores Zone of Control","Unable to capture cities"],
+		"attackSound": "Wasp"
+	},
+	{
 		"name": "Terraformer",
 		"unitType": "Civilian",
 		"movement": 2,
