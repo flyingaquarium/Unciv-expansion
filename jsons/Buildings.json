@@ -70,8 +70,8 @@
 	},
 	{
 		"name": "Aquarium",
-		"happiness": 3,
-		"science": 2,
+		"happiness": 2,
+		"science": 1,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredTech": "Biology"
@@ -92,7 +92,7 @@
 	},
 	{
 		"name": "Movie Theatre",
-		"happiness": 5,
+		"happiness": 4,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Theatre",
@@ -101,7 +101,7 @@
 	{   
 		"name": "Arcade",
 		"culture": 3,
-		"happiness": 4,
+		"happiness": 2,
 		"maintenance": 2,
 		"requiredTech": "Computers",
 		"uniques": ["Only available <after adopting [Freedom]>"]
