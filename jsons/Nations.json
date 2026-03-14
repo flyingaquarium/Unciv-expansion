@@ -34,5 +34,34 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Poland",
+		"leaderName": "Polandball",
+		"adjective": ["Polish"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Polandball",
+
+		"startIntroPart1": "Polandball the wisest, the first countryball, the countryball that got bullied by Russiaball empire, Reichtangle, 3rd Reichball, USSRball, and more balls. Yet stood aganist without dying. show who polandball am. show polandball is can into space",
+		"startIntroPart2": "S E N D  P O L A N D B A L L  T O  S P A C E",
+
+		"declaringWar": "Polandball into U (^_^)",
+		"attacked": "Polandball cannot into peace.",
+		"defeated": "Polandball Gone. BYE BYE (i_i) *polandball cries*",
+		"introduction": "I are Polandball. I are into space",
+
+		"neutralHello": "KURWA",
+		"hateHello": "Why!",
+
+		"tradeRequest": "Polandball trade (say yes he's adorable)",
+		
+		"afterPeace": "Polandball, U, Peace ♥",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"uniqueName": "Polandball into space",
+		"uniques": ["[+20]% Production when constructing [Spaceship part] units [in all cities]","[+50]% Production when constructing [Spaceship part] units [in Capital]","[+20]% Production when constructing [Armored] units [in Capital]"],
+		"cities": ["Warsaw","Krakow","Lodz","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Bialystok","Katowice","Gdynia","Czestochowa","Radom","Sosnowiec","Toruń","Kielce","Rzeszow","Gliwice","Zabrze"]
 	}
 ]
