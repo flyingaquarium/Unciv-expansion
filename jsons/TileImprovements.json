@@ -1,0 +1,11 @@
+[
+  {
+		"name": "Tree Park",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"happiness": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Construction",
+		"uniques": ["[+1 Happiness] <after discovering [Ecology]>","Pillaging this improvement yields approximately [+2 Gold]"],
+		"shortcutKey": "P"
+	}
+]
