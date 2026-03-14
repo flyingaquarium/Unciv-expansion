@@ -105,31 +105,31 @@
 				"name": "Bioprinting",
 				"row": 2,
 				"prerequisites": ["Globalization"],
-				"quote": "'Free Sushi for everyone :-D' - Yuki-chan the catgirl",
+				"quote": "'Free Sushi for everyone :-D' - Yuki-chan the catgirl"
 			},
 			{
 				"name": "Exotic Matter",
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology"],
-				"quote": "'Exotic Matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hundenberg",
+				"quote": "'Exotic Matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hundenberg"
 			},
 			{
 				"name": "Fusion Propulsion",
 				"row": 5,
 				"prerequisites": ["Particle Physics","Nuclear Fusion","Advanced Ballistics"],
-				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV",
+				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV"
 			},
 			{
 				"name": "Graphene",
 				"row": 7,
 				"prerequisites": ["Nanotechnology"],
-				"quote": "'We never thought simple 2D crystals were possible'- A Physicist",
+				"quote": "'We never thought simple 2D crystals were possible'- A Physicist"
 			},
 			{
 				"name": "Nanocomputers",
 				"row": 8,
 				"prerequisites": ["Nanotechnology"],
-				"quote": "'Computing has become this advanced'- Morry Eitein",
+				"quote": "'Computing has become this advanced'- Morry Eitein"
 			},
 			{
 				"name": "Battle Lasers",
@@ -150,37 +150,37 @@
 				"name": "Advanced Biology",
 				"row": 2,
 				"prerequisites": ["Bioprinting"],
-				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
+				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
 				"name": "Magnetic Shields",
 				"row": 4,
 				"prerequisites": ["Exotic Matter"],
-				"quote": "'We're only steps away from Energy shields'- Sir Piebald Fluffington, archduke of pawstria",
+				"quote": "'We're only steps away from Energy shields'- Sir Piebald Fluffington, archduke of pawstria"
 			},
 			{
 				"name": "Exotic Fuel",
 				"row": 5,
 				"prerequisites": ["Fusion Propulsion","Exotic Matter"],
-				"quote": "'Ít's Like unexplosive jet fuel'- Pilot Harald ray",
+				"quote": "'Ít's Like unexplosive jet fuel'- Pilot Harald ray"
 			},
 			{
 				"name": "Deep Space Exploration",
 				"row": 6,
 				"prerequisites": ["Nuclear Fusion"],
-				"quote": "'With help of fusion rockets, humanity will travel farther than they ever did' - Dr. Foxington",
+				"quote": "'With help of fusion rockets, humanity will travel farther than they ever did' - Dr. Foxington"
 			},
 			{
 				"name": "Super Alloy",
 				"row": 7,
 				"prerequisites": ["Exotic Matter","Graphene"],
-				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin",
+				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin"
 			},
 			{
 				"name": "Advanced Robotics",
 				"row": 8,
 				"prerequisites": ["Nanocomputers"],
-				"quote": "'Robots are really advanced. Better not hurt them'- Mr.Lee",
+				"quote": "'Robots are really advanced. Better not hurt them'- Mr.Lee"
 			},
 			{
 				"name": "Railguns",
@@ -232,7 +232,7 @@
 				"row": 9,
 				"prerequisites": ["Railguns"],
 				"quote": "'PROTECT NEO-TENOCHTITLAN AT ALL COST'- Montezuma III"
-			},
+			}
 		]
 	},
 	{
