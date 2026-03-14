@@ -125,6 +125,16 @@
 		"uniques": ["Only available <if [Broadcast Tower] is constructed in all [non-[Puppeted]] cities>","Cost increases by [30] per owned city","Only available <after adopting [Order]>","[+1 Culture] per [2] population [in all cities]"]
 	},
 	{
+		"name": "Google",
+		"culture": 8,
+		"happiness": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 3},
+		"uniques": ["[-30]% Culture cost of adopting new Policies"],
+		"requiredTech": "Globalization",
+		"quote": "'Sergey and I founded Google because we’re super optimistic about the potential for technology to make the world a better place. Think about how many people are underserved by transportation today, like those with disabilities, and how self‑driving cars will transform their lives. Or the wasted time you sit in your car every day commuting to and from work. Or the deaths and injuries that could be avoided'- Larry Page"
+	},
+	{
 		"name": "Nuclear Hadron Collider",
 		"maintenance": 4,
 		"requiredResource": "Deuterium",
@@ -156,6 +166,13 @@
 		"maintenance": 10,
 		"food": 25,
 		"requiredTech": "Bioprinting"
+	},
+	{
+		"name": "Asteroid Miner",
+		"maintenance": 35,
+		"cost": 7000,
+		"requiredTech": "Deep Space Exploration",
+		"uniques": ["Limited to [10] per Civilization","Provides [1] [Uranium]","Provides [2] [Iron]","Provides [5] [Coal]"]
 	},
 	{
 		"name": "Food Replicator",
@@ -191,13 +208,22 @@
 		"requiredTech": "Magnetic Shields",
 		"happiness": 2,
 		"percentStatBonus": {"production": -20},
-		"uniques": ["Provides [1] [Antimatter]","[-50]% growth [in this city]","Consumes [3] [Deuterium]"]
+		"uniques": ["Provides [1] [Antimatter]","[-10]% growth [in this city]","Consumes [3] [Deuterium]"]
+	},
+	{
+		"name": "Voyager VI",
+		"isWonder": true,
+		"greatPersonPoints": {"Great Scientist": 3},
+		"uniques": ["[3] free [Great Scientist] units appear","[+5]% Production when constructing [Spaceship part] units [in all cities]"],
+		"requiredTech": "Satellites",
+		"percentStatBonus": {"science": 100},
+		"quote": "'Let's search for any habitable planets' - President Franz Ferdinand II"
 	},
 	{
 		"name": "Mining Facility",
-		"maintenance": 10,
+		"maintenance": 5,
 		"requiredTech": "Advanced Robotics",
-		"uniques": ["Limited to [10] per Civilization","[+100]% [Uranium] resource production","[+100]% [Aluminium] resource production","[+100]% [Coal] resource production","[+20]% [Oil] resource production"]
+		"uniques": ["Limited to [10] per Civilization","[+50]% [Uranium] resource production","[+50]% [Aluminium] resource production","[+50]% [Coal] resource production","[+10]% [Oil] resource production"]
 	},
 	{
 		"name": "AE Defensive Railgun Unit",
