@@ -210,7 +210,7 @@
 		"movement": 5,
 		"strength": 650,
 		"cost": 22500,
-		"requiredTech": "Energy SHields",
+		"requiredTech": "Energy Shields",
 		"uniques" : ["Consumes [2] [Deuterium]","Cannot be purchased","Never appears as a Barbarian unit","[1] additional attacks per turn"],
 		"attackSound": "Spaceship_Gun"
 	},
