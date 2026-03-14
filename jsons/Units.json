@@ -171,7 +171,7 @@
 		"movement": 2,
 		"cost": 750,
 		"requiredTech": "Terraforming",
-		"uniques": ["Turn this tile into a [Grassland] tile <by consuming this unit>","Turn this tile into a [Plains] tile <by consuming this unit>","Turn this tile into a [Desert] tile <by consuming this unit>","Turn this tile into a [Snow] tile <by consuming this unit>","Requires at least [18] population",],
+		"uniques": ["Turn this tile into a [Grassland] tile <by consuming this unit>","Turn this tile into a [Plains] tile <by consuming this unit>","Turn this tile into a [Desert] tile <by consuming this unit>","Turn this tile into a [Snow] tile <by consuming this unit>","Requires at least [18] population"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -201,7 +201,7 @@
 		"strength": 400,
 		"cost": 9750,
 		"requiredTech": "Plasmacannons",
-		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit"]
+		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
 	},
 	{
@@ -211,17 +211,17 @@
 		"strength": 650,
 		"cost": 22500,
 		"requiredTech": "Energy SHields",
-		"uniques" : ["Consumes [2] [Deuterium]","Cannot be purchased","Never appears as a Barbarian unit","[1] additional attacks per turn"]
+		"uniques" : ["Consumes [2] [Deuterium]","Cannot be purchased","Never appears as a Barbarian unit","[1] additional attacks per turn"],
 		"attackSound": "Spaceship_Gun"
 	},
 	{
 		"name": "Space Battleship",
 		"unitType": "Spaceship",
-		"movement": ,
+		"movement": 2,
 		"strength": 1000,
 		"cost": 30500,
 		"requiredTech": "Alcubierre Bubbles",
-		"uniques" : ["Consumes [1] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","Never appears as a Barbarian unit"]
+		"uniques" : ["Consumes [1] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
 	},
 	{
@@ -231,9 +231,9 @@
 		"strength": 800,
 		"cost": 45000,
 		"requiredTech": "Megastructures",
-		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion0","[2] additional attacks per turn","Never appears as a Barbarian unit"]
+		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion0","[2] additional attacks per turn","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
-	}
+	},
 	{
 		"name": "Airbase",
 		"unitType": "Siege",
