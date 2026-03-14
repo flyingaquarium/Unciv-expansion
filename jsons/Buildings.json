@@ -249,7 +249,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Only available <when [Extended Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Rocketry",
+		"requiredTech": "Nuclear Fusion",
         "civilopediaText": [
             { "text": "Once you have completed the Project Orion, you can start constructing parts in your cities (with the relevant technologies) to win the extended Scientific Victory!" }
         ]
@@ -260,7 +260,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Only available <when [Extended Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Rocketry",
+		"requiredTech": "Fusion Propulsion",
         "civilopediaText": [
             { "text": "Once you have completed the Martian program, you can start constructing parts in your cities (with the relevant technologies) to WIN the extended science victory no one asked for!" }
         ]
@@ -271,7 +271,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Only available <when [Extended Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Rocketry",
+		"requiredTech": "Deep Space Exploration",
         "civilopediaText": [
             { "text": "IF YOU COMPLETE THIS. YOU CAN MAKE A GENERATIONAL SHIP TO SEND YOUR PEOPLE TO ANDROMEDA. (only takes like 2500 turns with FTL)" }
         ]
