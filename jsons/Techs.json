@@ -218,7 +218,7 @@
 			{
 				"name": "Energy Shields",
 				"row": 7,
-				"prerequisites": ["Super Alloy","Magnetic Shields"],
+				"prerequisites": ["Super Alloy","Magnetic Shields","Deep Space Exploration"],
 				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
 			},
 			{
