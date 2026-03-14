@@ -201,19 +201,19 @@
 				"name": "Terraforming",
 				"row": 1,
 				"prerequisites": ["Advanced Biology"],
-				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg",
+				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
 				"name": "Bio Armor",
 				"row": 2,
 				"prerequisites": ["Advanced Biology"],
-				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson",
+				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson"
 			},
 			{
 				"name": "Alcubierre Bubbles",
 				"row": 5,
 				"prerequisites": ["Exotic Fuel"],
-				"quote": "'FTL is possible. Finally '- Holbert Enstein",
+				"quote": "'FTL is possible. Finally '- Holbert Enstein"
 			},
 			{
 				"name": "Energy Shields",
@@ -225,7 +225,7 @@
 				"name": "Supercomputing",
 				"row": 8,
 				"prerequisites": ["Advanced Robotics"],
-				"quote": "'The better the computer is, the more chance to be tactically superior'- Geeral K. Roller",
+				"quote": "'The better the computer is, the more chance to be tactically superior'- Geeral K. Roller"
 			},
 			{
 				"name": "Plasmacannons",
