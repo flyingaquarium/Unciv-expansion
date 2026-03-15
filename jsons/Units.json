@@ -399,20 +399,5 @@
 		"cost": 2500,
 		"requiredTech": "Megastructures",
 		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Project Colonizer] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
-	},
-	\\GREAT PPL
-	{
-		"name": "Great Wizard",
-		"unitType": "Civilian",
-		"cost": 250,
-		"uniques": [
-            "[+1200]% Strength bonus for [All] units within [3] tiles",
-			"Can be earned through combat <for [Land] units>",
-            "Is part of Great Person group [General]",
-            "[This Unit] gets a name from the [General] group",
-			"Great Person - [War]", "Uncapturable"],
-		"requiredTech": "Magical Era",
-		"obsoleteTech": "Pottery",
-		"movement": 3
 	}
 ]
