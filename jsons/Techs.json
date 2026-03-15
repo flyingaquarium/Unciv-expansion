@@ -1,21 +1,5 @@
 [
 	{
-		"columnNumber": 0,
-		"era": "Ancient era",
-		"techCost": 20000,
-		"buildingCost": 4000,
-		"wonderCost": 0,
-		"techs": [
-			{
-				"name": "Magical Era",
-				"row": 1,
-				"prerequisites": ["Agriculture"]
-				"uniques": ["[-99]% weight to this choice for AI decisions","[+1 Gold, +2 Production, +2 Science, +5 culture] per [1] population [in all cities]","[+60 Gold]","Obsolete with [Pottery]]"],
-				"quote": "'Magic, to master it you must trust it' - Wizard Derotinos"
-			}
-		]
-	},
-	{
 		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 7700,
