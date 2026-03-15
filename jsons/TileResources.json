@@ -3,7 +3,7 @@
 	{
 		"name": "Graphene",
 		"resourceType": "Strategic",
-		"revealedBy": "Graphene",
+		"revealedBy": "Graphene tech",
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
@@ -21,7 +21,7 @@
 	{
 		"name": "Antimatter",
 		"resourceType": "Strategic",
-		"revealedBy": "Exotic Matter",
+		"revealedBy": "Exotic matter",
 		"happiness": -3,                              //ppl hate it cuz it's explosive
 		"uniques": ["Doesn't generate naturally","[-200000 Happiness] <before the [Future era]>"]
 	}
