@@ -7,5 +7,39 @@
 		"techRequired": "Construction",
 		"uniques": ["[+1 Happiness] <after discovering [Ecology]>","Pillaging this improvement yields approximately [+2 Gold]"],
 		"shortcutKey": "P"
+	},
+	{
+		"name": "Graphene Production Plant",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
+		"turnsToBuild": 10,
+		"techRequired": "Graphene tech",
+		"uniques": ["Costs [1] [Gold] per turn","Provides [1] [Graphene]","Consumes [1] [Coal]","Provides [1] [Graphene] <after discovering [Advanced Robotics]>","Consumes [1] [Coal] <after discovering [Advanced Robotics]>","Provides [1] [Graphene] <in [Coal] tiles>"],
+		"shortcutKey": "G"
+	},
+	{
+		"name": "Deuterium Production Facility",
+		"maintenance": 2,
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
+		"turnsToBuild": 10,
+		"techRequired": "Nuclear Fusion",
+		"uniques": ["Costs [2] [Gold] per turn","Provides [1] [Deuterium]","Provides [1] [Deuterium] <after discovering [Fusion Propulsion]>","Can also be built on tiles adjacent to fresh water","Must be next to [Fresh Water]"],
+		"shortcutKey": "D"
+	},
+	{
+		"name": "Large Hadron Collier",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
+		"turnsToBuild": 10,
+		"techRequired": "Exotic matter",
+		"uniques": ["Costs [3] [Gold] per turn","Provides [1] [Exotic Matter]","Consumes [1] [Deuterium]","Provides [1] [Exotic Matter] <after discovering [Exotic Fuel]>","Consumes [1] [Deuterium] <after discovering [Exotic Fuel]>"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Antimatter Containment Facility",
+		"maintenance": 4,
+		"production": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Magnetic Shields",
+		"uniques": ["Costs [4] [Gold] per turn","Provides [2] [Antimatter]","Consumes [4] [Deuterium]"],
+		"shortcutKey": "Q"
 	}
 ]
