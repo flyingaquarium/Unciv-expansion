@@ -15,7 +15,7 @@
 	{
 		"name": "Exotic Matter",
 		"resourceType": "Strategic",
-		"revealedBy": "Exotic Matter",
+		"revealedBy": "Exotic matter",
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
