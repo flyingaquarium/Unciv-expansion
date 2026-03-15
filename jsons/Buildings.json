@@ -197,7 +197,7 @@
 		"name": "Tank Factory",
 		"production": 3,
         "maintenance": 5,
-		"requiredResource": "Graphene tech",
+		"requiredResource":"Graphene tech",
 		"cost": 360,
 		"requiredBuilding": "Factory",
 		"uniques": ["[+50]% Production when constructing [Armored] units [in this city]"],
