@@ -189,8 +189,9 @@
 		"maintenance": 35,
 		"cost": 1000,
 		"hurryCostModifier": 0,
-		"percentStatBonus": {"production": -50},
-		"uniques": ["[+3 Food] per [1] population [in this city]","[-50]% growth [in this city]"],
+		"food": 300,
+		"percentStatBonus": {"happiness": -5},
+		"uniques": ["[+1 Food] per [20] population [in this city]"],
 		"requiredTech": "Advanced Biology"
 	},
 	{
