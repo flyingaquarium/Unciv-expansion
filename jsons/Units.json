@@ -72,7 +72,7 @@
 		"movement": 5,
 		"strength": 130,
 		"cost": 475,
-		"requiredTech": "Graphene",
+		"requiredTech": "Graphene tech",
 		"requiredResource": "Graphene",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -297,7 +297,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 1500,
-		"requiredTech": "Graphene",
+		"requiredTech": "Graphene tech",
 		"requiredResource": "Graphene",
 		"uniques": ["Spaceship part", "Cannot be purchased","Only available <if [Projeect Orion] is constructed>","Can be added to [The Spaceship] in the Capital","Limited to [1] per Civilization","Only available <when [Extended Scientific] Victory is enabled>"]
 	},
