@@ -27,38 +27,6 @@
       "Autocracy": 0, //polandball hate reichball
       "Order": 3
     }
-},
-{
-  "name": "Hikari-nyachan",
-
-    "culture": 9,
-    "faith": 6,
-    "food": 9,
-    "gold": 6,
-    "happiness": 10,
-    "production": 4,
-    "science": 5,
-
-    "military": 3,
-    "aggressive": 6,
-    "declareWar": 3,
-    "commerce": 7,
-    "diplomacy": 9,
-    "loyal": 4,
-    "expansion": 7,
-
-    "priorities": {
-      "Tradition": 12,
-      "Liberty": 8,
-      "Piety": 8,
-      "Patronage": 8,
-      "Rationalism": 9,
-      "Commerce": 7,
-      "Honor": 2,
-      "Freedom": 5,
-      "Autocracy": 4,
-      "Order": 4
-    }
   }
 ]
     
