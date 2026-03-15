@@ -120,7 +120,7 @@
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV"
 			},
 			{
-				"name": "Graphene",
+				"name": "Graphene tech",
 				"row": 7,
 				"prerequisites": ["Nanotechnology"],
 				"quote": "'We never thought simple 2D crystals were possible'- A Physicist"
@@ -173,7 +173,7 @@
 			{
 				"name": "Super Alloy",
 				"row": 7,
-				"prerequisites": ["Exotic Matter","Graphene"],
+				"prerequisites": ["Exotic Matter","Graphene tech"],
 				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin"
 			},
 			{
