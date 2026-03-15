@@ -190,7 +190,7 @@
 		"cost": 1000,
 		"hurryCostModifier": 0,
 		"percentStatBonus": {"production": -50},
-		"uniques": ["[+35 Food] per [10] population [in this city]","[-50]% growth [in this city]"],
+		"uniques": ["[+3 Food] per [1] population [in this city]","[-50]% growth [in this city]"],
 		"requiredTech": "Advanced Biology"
 	},
 	{
