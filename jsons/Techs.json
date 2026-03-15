@@ -11,8 +11,7 @@
 				"row": 1,
 				"prerequisites": ["Agriculture"]
 				"uniques": ["[-99]% weight to this choice for AI decisions"],
-				"quote": "'Magic, to master it you must trust it' - Wizard Derotinos",
-				"uniques":
+				"quote": "'Magic, to master it you must trust it' - Wizard Derotinos"
 			}
 		]
 	},
