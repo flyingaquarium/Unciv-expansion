@@ -148,7 +148,7 @@
 		"name": "Nuclear Hadron Collider",
 		"maintenance": 4,
 		"requiredResource": "Deuterium",
-		"requiredTech": "Exotic Matter",
+		"requiredTech": "Exotic matter",
 		"uniques": ["Provides [1] [Exotic Matter]"]
 	},
 	{
@@ -258,7 +258,7 @@
 		"production": 10,
 		"percentStatBonus": {"production": 15},
 		"maintenance": 6,
-		"requiredResource": "Exotic Matter",
+		"requiredResource": "Exotic matter",
 		"requiredTech": "Exotic Matter"
 	},
 	{
