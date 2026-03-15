@@ -25,7 +25,7 @@
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Polandball into space",
-		"uniques": ["[+20]% Production when constructing [Spaceship part] units [in all cities]","[+50]% Production when constructing [Spaceship part] units [in Capital]","[+20]% Production when constructing [Armored] units [in Capital]"],
+		"uniques": ["[+20]% Production when constructing [Spaceship part] units [in all cities]","[+50]% Production when constructing [Spaceship part] units [in Capital]","[+100]% Production when constructing [All] units [in Capital]"],
 		"cities": ["Warsaw","Krakow","Lodz","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Bialystok","Katowice","Gdynia","Czestochowa","Radom","Sosnowiec","Toruń","Kielce","Rzeszow","Gliwice","Zabrze"],
 		"spyNames": ["Polandball","Polandball II","Poland & ball","Ballpoland","Polandpoland","Bolandpall","Polandsphere","Polskaball"]
 	}
