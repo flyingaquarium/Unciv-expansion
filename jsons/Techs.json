@@ -108,7 +108,7 @@
 				"quote": "'Free Sushi for everyone :-D' - Yuki-chan the catgirl"
 			},
 			{
-				"name": "Exotic matter",
+				"name": "Exotic matter", //to stop confusion from resource
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology"],
 				"quote": "'Exotic matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hundenberg"
