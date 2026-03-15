@@ -111,7 +111,8 @@
 				"name": "Exotic matter", //to stop confusion from resource
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology"],
-				"quote": "'Exotic matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hundenberg"
+				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
+				"quote": "'Exotic matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hindenberg"
 			},
 			{
 				"name": "Fusion Propulsion",
@@ -135,6 +136,7 @@
 				"name": "Battle Lasers",
 				"row": 9,
 				"prerequisites": ["Advanced Lasers"],
+				"uniques": ["Reveals the entire map","[+100]% weight to this choice for AI decisions"],
 				"quote": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH'- Mark Welson"
 			}
 		]
@@ -150,6 +152,7 @@
 				"name": "Advanced Biology",
 				"row": 2,
 				"prerequisites": ["Bioprinting"],
+				"uniques": ["Reveals the entire map","[-10]% weight to this choice for AI decisions"],
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
@@ -174,6 +177,7 @@
 				"name": "Super Alloy",
 				"row": 7,
 				"prerequisites": ["Exotic matter","Graphene tech"],
+				"uniques": ["Reveals the entire map","[+200]% weight to this choice for AI decisions"],
 				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin"
 			},
 			{
@@ -186,6 +190,7 @@
 				"name": "Railguns",
 				"row": 9,
 				"prerequisites": ["Battle Lasers","Exotic matter"],
+				"uniques": ["Reveals the entire map","[+250]% weight to this choice for AI decisions"],
 				"quote": "'What i have done'- Admiral Roland S. Key"
 			}
 		]
@@ -201,12 +206,14 @@
 				"name": "Terraforming",
 				"row": 1,
 				"prerequisites": ["Advanced Biology"],
+				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
 				"name": "Bio Armor",
 				"row": 2,
 				"prerequisites": ["Advanced Biology"],
+				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
 				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson"
 			},
 			{
@@ -246,6 +253,7 @@
 				"name": "Megastructures",
 				"row": 7,
 				"prerequisites": ["Bio Armor","Alcubierre Bubbles","Energy Shields","Plasmacannons","Terraforming","Supercomputing"],
+				"uniques": ["Reveals the entire map","[+400]% weight to this choice for AI decisions"],
 				"quote": "'We have accended this far. time to conquer stars'- Commander Hans Krieger"
 			}
 		]
