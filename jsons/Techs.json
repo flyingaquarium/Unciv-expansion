@@ -120,7 +120,7 @@
 				"quote": "'We're Quite capable of colonizing mars *sips tea*' - sir yorkshire wellington the XXV"
 			},
 			{
-				"name": "Graphene tech",
+				"name": "Graphene tech", //to stop confusion from resource
 				"row": 7,
 				"prerequisites": ["Nanotechnology"],
 				"quote": "'We never thought simple 2D crystals were possible'- A Physicist"
