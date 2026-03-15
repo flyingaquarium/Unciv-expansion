@@ -213,14 +213,6 @@
 			"Only available <when nuclear weapons are enabled> <hidden from users>"]
 	},
 	{
-		"name": "Antimatter Containment Facility",
-		"maintenance": 30,
-		"requiredTech": "Magnetic Shields",
-		"happiness": 2,
-		"percentStatBonus": {"production": -20},
-		"uniques": ["Provides [1] [Antimatter]","[-10]% growth [in this city]","Consumes [3] [Deuterium]"]
-	},
-	{
 		"name": "Voyager VI",
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
