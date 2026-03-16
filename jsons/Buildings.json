@@ -217,7 +217,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
 		"uniques": ["[3] free [Great Scientist] units appear","[+5]% Production when constructing [Spaceship part] units [in all cities]"],
-		"requiredTech": "Satellites",
+		"requiredTech": "Deep Space Exploration",
 		"percentStatBonus": {"science": 100},
 		"quote": "'Let's search for any habitable planets' - President Franz Ferdinand II"
 	},
