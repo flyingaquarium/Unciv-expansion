@@ -30,7 +30,7 @@
 				"prerequisites": ["Rocketry"],
 				"uniques": ["[+200]% weight to this choice for AI decisions"],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson",
-				"civilopediaText": [{"text": "You need to actually lauch a sat rocket to reveal the map. unlike the game"}]
+				"civilopediaText": [{"text": "You need to actually build the global satellite program to reveal the map. unlike the game"}]
 			},
 			{
 				"name": "Robotics",
