@@ -1,33 +1,113 @@
 [
   {
-		"name": "Discipline I",
-		"uniques": ["[+25]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
-	  "unitTypes": ["Gunpowder"],
+	"name": "Discipline I",
+	"uniques": ["[+25]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
+	"unitTypes": ["Gunpowder"],
     "column": 27,
     "row": 2
-	},
+  },
   {
-		"name": "Discipline II",
-		"prerequisites": ["Discipline I"],
-		"uniques": ["[+75]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
-	  "unitTypes": ["Gunpowder"],
-	  "column": 27,
+	"name": "Discipline II",
+	"prerequisites": ["Discipline I"],
+	"uniques": ["[+75]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
+	"unitTypes": ["Gunpowder"],
+	"column": 27,
     "row": 3
   },
   {
-		"name": "Discipline III",
-		"prerequisites": ["Discipline II"],
-		"uniques": ["[+100]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
-	  "unitTypes": ["Gunpowder"],
-	  "column": 27,
+	"name": "Discipline III",
+	"prerequisites": ["Discipline II"],
+	"uniques": ["[+100]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
+	"unitTypes": ["Gunpowder"],
+	"column": 27,
     "row": 4
   },
   {
-		"name": "Discipline IV",
-		"prerequisites": ["Discipline III"],
-		"uniques": ["[+125]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
-	  "unitTypes": ["Gunpowder"],
-	  "column": 27,
+	"name": "Discipline IV",
+	"prerequisites": ["Discipline III"],
+	"uniques": ["[+125]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
+	"unitTypes": ["Gunpowder"],
+	"column": 27,
     "row": 5
-  }
+  },
+  {
+	"name": "Precision I",
+	"uniques": ["[+10]% Strength <when attacking>"],
+	"unitTypes": ["Spaceship"],
+	"column": 28,
+    "row": 1
+  },
+  {
+	"name": "Precision II",
+	"prerequisites": ["Precision I"],
+	"uniques": ["[+5]% Strength <when attacking>"],
+	"unitTypes": ["Spaceship"],
+	"column": 28,
+    "row": 2
+  },
+  {
+	"name": "Precision III",
+	"prerequisites": ["Precision II"],
+	"uniques": ["[+5]% Strength <when attacking>"],
+	"unitTypes": ["Spaceship"],
+	"column": 28,
+    "row": 3
+  },
+  {
+	"name": "Supplies",
+	"uniques": ["Unit will heal every turn, even if it performs an action"],
+	"unitTypes": ["Spaceship"],
+	"column": 29,
+    "row": 2
+  },
+    {
+	"name": "Composite Alloy I",
+	"uniques": ["[+5]% Strength <when defending>"],
+	"unitTypes": ["Spaceship"],
+	"column": 30,
+    "row": 1
+  },
+  {
+	"name": "Composite Alloy II",
+	"prerequisites": ["Composite Alloy I"],
+	"uniques": ["[+10]% Strength <when defending>"],
+	"unitTypes": ["Spaceship"],
+	"column": 30,
+    "row": 2
+  },
+  {
+	"name": "Composite Alloy III",
+	"prerequisites": ["Composite Alloy II"],
+	"uniques": ["[+15]% Strength <when attacking>"],
+	"unitTypes": ["Spaceship"],
+	"column": 30,
+    "row": 3
+  },
+  {
+	"name": "Railguns I",
+	"uniques": ["[+20]% Strength <vs cities>"],
+	"unitTypes": ["Spaceship"],
+	"column": 32,
+    "row": 1
+  },
+  {
+	"name": "Railguns iI",
+	"prerequisites": ["Railguns I"],
+	"uniques": ["[+20]% Strength <vs cities>"],
+	"unitTypes": ["Spaceship"],
+	"column": 32,
+    "row": 3
+  },
+  {
+	"name": "Super Stealth",
+	"prerequisites": ["Composite Alloy III","Precision III"],
+	"uniques": ["Invisible to non-adjacent units"],
+	"unitTypes": ["Spaceship"],
+	"column": 31,
+    "row": 4
+  },
+  {
+	"name": "Hyper Radar",
+	"uniques": ["Can see invisible [Spaceship] units"],
+  },
 ]
