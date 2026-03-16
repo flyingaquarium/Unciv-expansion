@@ -116,6 +116,12 @@
 		"uniques": ["[+1 Gold] per [1] population [in all cities]"]
 	},
 	{
+		"name": "Global Satellites Program",
+		"cost": 1400,
+		"requiredTech": "Satellites",
+		"uniques": ["Cannot be purchased","Limited to [1] per Civilization","Reveals the entire map","[+300]% weight to this choice for AI decisions","Triggers a global alert upon completion"]
+	}
+	{
 		"name": "Spaceship Factory",
 		"production": 3,
         "maintenance": 3,
