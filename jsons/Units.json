@@ -169,7 +169,7 @@
 		"name": "mega Battlewasp",  //Vegans fr gonna hate this
 		"unitType": "Helicopter",
 		"movement": 4,
-		"strength": 300,
+		"strength": 200,
 		"cost": 6000,
 		"requiredTech": "Bio Armor",
 		"uniques" : ["Never appears as a Barbarian unit","No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement","Ignores Zone of Control","Unable to capture cities"],
@@ -218,10 +218,10 @@
 		"name": "Class III Gunboat",
 		"unitType": "Spaceship",
 		"movement": 6,
-		"strength": 200,
+		"strength": 400,
 		"cost": 9750,
 		"requiredTech": "Plasmacannons",
-		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit","[1] additional attacks per turn"],
+		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit","[1] additional attacks per turn","[-50]% Strength <when attacking>"],
 		"attackSound": "Laser1"
 	},
 	{
@@ -248,10 +248,10 @@
 		"name": "Dreadnought",
 		"unitType": "Spaceship",
 		"movement": 3,
-		"strength": 800,
+		"strength": 2400,
 		"cost": 45000,
 		"requiredTech": "Megastructures",
-		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[2] additional attacks per turn","Never appears as a Barbarian unit"],
+		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[2] additional attacks per turn","Never appears as a Barbarian unit","[-60]% Strength <when attacking>"]",
 		"attackSound": "Spaceship_Gun"
 	},
 	{
@@ -259,7 +259,7 @@
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 200,
-		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack"]
+		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack","[+10]% Strength <when defending>"]
 	},
 	{
 		"name": "Landgun",
