@@ -5,7 +5,7 @@
 		"happiness": 1,
 		"turnsToBuild": 4,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Happiness] <after discovering [Ecology]>","Pillaging this improvement yields approximately [+2 Gold]"],
+		"uniques": ["[+1 Happiness] <after discovering [Ecology]>","Pillaging this improvement yields approximately [+2 Gold]","Will not be replaced by automated units"],
 		"shortcutKey": "P"
 	},
 	{
@@ -13,7 +13,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
 		"turnsToBuild": 10,
 		"techRequired": "Graphene tech",
-		"uniques": ["Costs [1] [Gold] per turn","Provides [1] [Graphene]","Consumes [1] [Coal]","Provides [1] [Graphene] <after discovering [Advanced Robotics]>","Consumes [1] [Coal] <after discovering [Advanced Robotics]>","Provides [1] [Graphene] <in [Coal] tiles>"],
+		"uniques": ["Costs [1] [Gold] per turn","Provides [1] [Graphene]","Consumes [1] [Coal]","Provides [1] [Graphene] <after discovering [Advanced Robotics]>","Consumes [1] [Coal] <after discovering [Advanced Robotics]>","Provides [1] [Graphene] <in [Coal] tiles>","Will not be replaced by automated units"],
 		"shortcutKey": "G"
 	},
 	{
@@ -22,7 +22,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
 		"turnsToBuild": 10,
 		"techRequired": "Nuclear Fusion",
-		"uniques": ["Costs [2] [Gold] per turn","Provides [1] [Deuterium]","Provides [1] [Deuterium] <after discovering [Fusion Propulsion]>","Can also be built on tiles adjacent to fresh water","Must be next to [Fresh Water]"],
+		"uniques": ["Costs [2] [Gold] per turn","Provides [1] [Deuterium]","Provides [1] [Deuterium] <after discovering [Fusion Propulsion]>","Can also be built on tiles adjacent to fresh water","Must be next to [Fresh Water]","Will not be replaced by automated units"],
 		"shortcutKey": "D"
 	},
 	{
@@ -30,7 +30,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
 		"turnsToBuild": 10,
 		"techRequired": "Exotic matter",
-		"uniques": ["Costs [3] [Gold] per turn","Provides [1] [Exotic Matter]","Consumes [1] [Deuterium]","Provides [1] [Exotic Matter] <after discovering [Exotic Fuel]>","Consumes [1] [Deuterium] <after discovering [Exotic Fuel]>"],
+		"uniques": ["Costs [3] [Gold] per turn","Provides [1] [Exotic Matter]","Consumes [1] [Deuterium]","Provides [1] [Exotic Matter] <after discovering [Exotic Fuel]>","Consumes [1] [Deuterium] <after discovering [Exotic Fuel]>","Will not be replaced by automated units"],
 		"shortcutKey": "L"
 	},
 	{
@@ -38,7 +38,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
 		"turnsToBuild": 10,
 		"techRequired": "Magnetic Shields",
-		"uniques": ["Costs [4] [Gold] per turn","Provides [2] [Antimatter]","Consumes [4] [Deuterium]"],
+		"uniques": ["Costs [4] [Gold] per turn","Provides [2] [Antimatter]","Consumes [4] [Deuterium]","Will not be replaced by automated units"],
 		"shortcutKey": "Q"
 	}
 ]
