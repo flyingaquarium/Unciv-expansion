@@ -241,6 +241,7 @@
 		"strength": 1000,
 		"cost": 30500,
 		"requiredTech": "Alcubierre Bubbles",
+		"promotions": ["Hyper Radar"],
 		"uniques" : ["Consumes [1] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
 	},
@@ -252,6 +253,7 @@
 		"cost": 45000,
 		"requiredTech": "Megastructures",
 		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[2] additional attacks per turn","Never appears as a Barbarian unit","[-60]% Strength <when attacking>"],
+		"promotions": ["Hyper Radar"],
 		"attackSound": "Spaceship_Gun"
 	},
 	{
