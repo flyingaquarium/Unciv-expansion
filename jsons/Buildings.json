@@ -190,7 +190,7 @@
 		"cost": 1000,
 		"hurryCostModifier": 0,
 		"food": 150,
-		"uniques": ["[+1 Food] per [20] population [in this city]",
+		"uniques": ["[+1 Food] per [20] population [in this city]"],
 		"requiredTech": "Advanced Biology"
 	},
 	{
