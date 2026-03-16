@@ -28,8 +28,9 @@
 				"name": "Satellites",
 				"row": 6,
 				"prerequisites": ["Rocketry"],
-				"uniques": ["Reveals the entire map","[+200]% weight to this choice for AI decisions"],
-				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
+				"uniques": ["[+200]% weight to this choice for AI decisions"],
+				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson",
+				"civilopediaText": [{"text": "You need to actually lauch a sat rocket to reveal the map. unlike the game"}]
 			},
 			{
 				"name": "Robotics",
@@ -105,13 +106,13 @@
 				"name": "Bioprinting",
 				"row": 2,
 				"prerequisites": ["Globalization"],
-				"quote": "'Free Sushi for everyone :-D' - Yuki-chan the catgirl"
+				"quote": "'Free Sushi for everyone =D' - Yuki-chan the catgirl"
 			},
 			{
 				"name": "Exotic matter", //to stop confusion from resource
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology"],
-				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
+				"uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Exotic matter Always has Secrets for us to tell about' - Winston Harald Montezuma Hindenberg"
 			},
 			{
@@ -136,7 +137,7 @@
 				"name": "Battle Lasers",
 				"row": 9,
 				"prerequisites": ["Advanced Lasers"],
-				"uniques": ["Reveals the entire map","[+100]% weight to this choice for AI decisions"],
+				"uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH'- Mark Welson"
 			}
 		]
@@ -165,7 +166,7 @@
 				"name": "Exotic Fuel",
 				"row": 5,
 				"prerequisites": ["Fusion Propulsion","Exotic matter"],
-				"quote": "'Ít's Like unexplosive jet fuel'- Pilot Harald ray"
+				"quote": "'Ít's Like unexplosive rocket fuel'- Astronaut captain Jack parrot"
 			},
 			{
 				"name": "Deep Space Exploration",
@@ -177,7 +178,7 @@
 				"name": "Super Alloy",
 				"row": 7,
 				"prerequisites": ["Exotic matter","Graphene tech"],
-				"uniques": ["Reveals the entire map","[+200]% weight to this choice for AI decisions"],
+				"uniques": ["[+200]% weight to this choice for AI decisions"],
 				"quote": "'Armor can make you immune, but not immortal.' - General Zhi lin"
 			},
 			{
@@ -190,7 +191,7 @@
 				"name": "Railguns",
 				"row": 9,
 				"prerequisites": ["Battle Lasers","Exotic matter"],
-				"uniques": ["Reveals the entire map","[+250]% weight to this choice for AI decisions"],
+				"uniques": ["[+250]% weight to this choice for AI decisions"],
 				"quote": "'What i have done'- Admiral Roland S. Key"
 			}
 		]
@@ -206,14 +207,14 @@
 				"name": "Terraforming",
 				"row": 1,
 				"prerequisites": ["Advanced Biology"],
-				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
+				"uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
 				"name": "Bio Armor",
 				"row": 2,
 				"prerequisites": ["Advanced Biology"],
-				"uniques": ["Reveals the entire map","[+50]% weight to this choice for AI decisions"],
+				"uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Your Tank gets hurt. Please take care of 'Him''- Roover Watson"
 			},
 			{
@@ -226,7 +227,7 @@
 				"name": "Energy Shields",
 				"row": 7,
 				"prerequisites": ["Super Alloy","Magnetic Shields","Deep Space Exploration"],
-				"quote": "'General Zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
+				"quote": "'General zhi lin, much more like General Ceiling has been Disproven Badly' - Sun Tzu II",
 			},
 			{
 				"name": "Supercomputing",
