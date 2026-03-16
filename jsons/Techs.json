@@ -152,7 +152,7 @@
 				"name": "Advanced Biology",
 				"row": 2,
 				"prerequisites": ["Bioprinting"],
-				"uniques": ["Reveals the entire map","[-10]% weight to this choice for AI decisions"],
+				"uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
 			},
 			{
