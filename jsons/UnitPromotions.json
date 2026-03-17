@@ -1,5 +1,22 @@
 [
   {
+	"name": "Heal Instantly",
+	"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+	"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Spaceship"],
+	"innerColor": [195,53,43],
+	"outerColor": [253,236,234],
+    "row": 0,
+    "column": 0
+  },
+  {
+	"name": "Extended Range",
+	"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II","Precision III"],
+	"uniques": ["[+1] Range"],
+	"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
+    "column": 3,
+    "row": 3
+  },
+  {
 	"name": "Discipline I",
 	"uniques": ["[+25]% Strength <vs [All] units>","Only available <for [Dreyse Needle] units>"],
 	"unitTypes": ["Gunpowder"],
@@ -54,13 +71,21 @@
     "row": 3
   },
   {
-	"name": "Supplies",
+	"name": "Supplies I",
 	"uniques": ["Unit will heal every turn, even if it performs an action"],
 	"unitTypes": ["Spaceship"],
 	"column": 29,
     "row": 2
   },
-    {
+  {
+	"name": "Supplies II",
+	"uniques": ["All adjacent units heal [+5] HP when healing"],
+	  "prerequisites": ["Supplies I"],
+	"unitTypes": ["Spaceship"],
+	"column": 29,
+    "row": 2
+  },
+  {
 	"name": "Composite Alloy I",
 	"uniques": ["[+5]% Strength <when defending>"],
 	"unitTypes": ["Spaceship"],
@@ -100,10 +125,18 @@
   },
   {
 	"name": "Super Stealth",
-	"prerequisites": ["Composite Alloy III","Precision III"],
+	"prerequisites": ["Composite Alloy III"],
 	"uniques": ["Invisible to non-adjacent units"],
 	"unitTypes": ["Spaceship"],
 	"column": 31,
+    "row": 4
+  },
+  {
+	"name": "Rapid Fire Railguns",
+	"prerequisites": ["Railguns II"],
+	"uniques": ["[1] additional attacks per turn"],
+	"unitTypes": ["Spaceship"],
+	"column": 32,
     "row": 4
   },
   {
