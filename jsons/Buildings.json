@@ -293,7 +293,7 @@
 	},
 	           // SPACE PROGRAMS
 	{
-		"name": "Projeect Orion",
+		"name": "Project Orion",
 		"cost": 1500,
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
