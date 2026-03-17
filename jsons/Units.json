@@ -18,7 +18,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"uniques": ["Can transform to [Landgun]","Can transform to [Railgun] <after discovering [Railguns]>"], //CUZ I CAN'T CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
+		"uniques": ["Can transform to [Landgun]"], //CUZ I CAN'T CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
 		"hurryCostModifier": 20
 	},
 	{
@@ -144,6 +144,15 @@
 		"uniques": ["[+1000]% Strength <vs [Spaceship] units>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "Railgun"
+	},
+	{
+		"name": "Railgun Parts",
+		"unitType": "Civilian",
+		"movement": 5,
+		"cost": 300,
+		"requiredTech": "Railguns",
+		"uniques": ["Can transform to [Railgun]"], //CUZ I CAN'T CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
+		"hurryCostModifier": 20
 	},
 	{
 		"name": "Droid",
@@ -283,6 +292,7 @@
 		"strength": 20,
 		"rangedStrength": 80,
 		"range": 4,
+		"upgradesTo": "Railgun",
 		"uniques": ["[+150]% Strength <vs [Armored] units>","Unbuildable"],
 		"attackSound": "Landgun"
 	},
