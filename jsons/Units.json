@@ -289,9 +289,10 @@
 	{
 		"name": "Reinforced Airbase",
 		"unitType": "Siege",
+		"cost": 1000,
 		"movement": 0,
 		"strength": 1000,
-		"uniques": ["Consumes [1] [Graphene]","Unbuildable","Can carry [10] [Aircraft] units","Cannot attack","[5]% Strength <when defending>"]
+		"uniques": ["Consumes [1] [Graphene]","Unbuildable","Can carry [10] [Aircraft] units","Cannot attack","[5]% Strength <when defending>","Unbuildable"]
 	},
 	{
 		"name": "Landgun",
