@@ -283,7 +283,7 @@
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 200,
-		"uniques": ["Unbuildable","Can carry [5] [Aircraft] units","Can carry [5] extra [Air] units <upon discovering [Graphene tech]>","Cannot attack","[+10]% Strength <when defending>","[+200] Strength <upon discovering [Graphene tech] technology>","[+400] Strength <upon discovering [Energy Shields] technology>"]
+		"uniques": ["Unbuildable","Can carry [5] [Aircraft] units","Can carry [5] extra [Air] units <upon discovering [Graphene tech]>","Cannot attack","[+10]% Strength <when defending>"]
 	},
 	{
 		"name": "Landgun",
