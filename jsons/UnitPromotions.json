@@ -124,6 +124,14 @@
     "row": 3
   },
   {
+	"name": "Railguns III",
+	"prerequisites": ["Railguns II"],
+	"uniques": ["[+10]% Strength"],
+	"unitTypes": ["Spaceship"],
+	"column": 32,
+    "row": 3
+  },
+  {
 	"name": "Super Stealth",
 	"prerequisites": ["Composite Alloy III"],
 	"uniques": ["Invisible to non-adjacent units"],
@@ -133,7 +141,7 @@
   },
   {
 	"name": "Rapid Fire Railguns",
-	"prerequisites": ["Railguns II"],
+	"prerequisites": ["Railguns III"],
 	"uniques": ["[1] additional attacks per turn"],
 	"unitTypes": ["Spaceship"],
 	"column": 32,
