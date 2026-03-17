@@ -156,6 +156,14 @@
 		"attackSound": "gdrAttack"
 	},
 	{
+		"name": "Civillian Robot",
+		"unitType": "Civilian",
+		"movement": 3,
+		"requiredTech": "Advanced Robotics",
+		"uniques": ["Can build [Land] improvements on tiles","Automation is a primary action","Can build [all] improvements at a [+50]% rate"],
+		"cost": 70
+	},
+	{
 		"name": "Bio Armor",
 		"unitType": "Armored",
 		"movement": 5,
