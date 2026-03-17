@@ -18,7 +18,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"uniques": ["Can transform to [Landgun]"], //CUZ I CAN't CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
+		"uniques": ["Can transform to [Landgun]","Can transform to [Railgun] <upon discovering [Railguns] technology>"], //CUZ I CAN'T CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
 		"hurryCostModifier": 20
 	},
 	{
@@ -27,7 +27,7 @@
 		"movement": 5,
 		"cost": 300,
 		"requiredTech": "Radar",
-		"uniques": ["Can transform to [Airbase]"], //CUZ I CAN't CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
+		"uniques": ["Can transform to [Airbase]"], //CUZ I CAN'T CREATE UNIT IMPROVEMENTS. I CAME UP WITH THIS
 		"hurryCostModifier": 20
 	},
 	{
@@ -141,7 +141,7 @@
 		"cost": 555,
 		"requiredTech": "Railguns",
 		"requiredResource": "Exotic Matter",
-		"uniques": ["[+700]% Strength <vs [Spaceship] units>","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques": ["[+1000]% Strength <vs [Spaceship] units>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "Railgun"
 	},
@@ -277,6 +277,16 @@
 		"range": 4,
 		"uniques": ["[+150]% Strength <vs [Armored] units>","Unbuildable"],
 		"attackSound": "Landgun"
+	},
+	{
+		"name": "Railgun",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 250,
+		"rangedStrength": 200,
+		"range": 8,
+		"uniques": ["[+150]% Strength <vs [Armored] units>","[+200]% Strength <vs [Spaceship] units>","Unbuildable"],
+		"attackSound": "Railgun"
 	},
 	      //S P A C E  S H I P  P A R T S
 	
