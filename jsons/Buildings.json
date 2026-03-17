@@ -96,7 +96,7 @@
 		"cost": 600,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Can carry [3] extra [Air] units","Can carry [4] extra [Air] units <upon discovering [Radar] technology>","Can carry [4] extra [Air] units <upon discovering [Graphene tech] technology>"],
+		"uniques": ["Can carry [3] extra [Air] units","Can carry [4] extra [Air] units <after discovering [Radar] technology>","Can carry [4] extra [Air] units <after discovering [Graphene tech] technology>"],
 		"requiredTech": "Flight"
 	},
 	{   
