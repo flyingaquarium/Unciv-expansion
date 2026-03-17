@@ -283,7 +283,15 @@
 		"unitType": "Siege",
 		"movement": 0,
 		"strength": 200,
-		"uniques": ["Unbuildable","Can carry [5] [Aircraft] units","Can carry [5] extra [Air] units <upon discovering [Graphene tech]>","Cannot attack","[+10]% Strength <when defending>"]
+		"upgradesTo": "Reinforced Airbase",
+		"uniques": ["Unbuildable","Can carry [10] [Aircraft] units","Cannot attack","[+10]% Strength <when defending>"]
+	},
+	{
+		"name": "Reinforced Airbase",
+		"unitType": "Siege",
+		"movement": 0,
+		"strength": 1000,
+		"uniques": ["Consumes [1] [Graphene]","Unbuildable","Can carry [10] [Aircraft] units","Cannot attack","[5]% Strength <when defending>"]
 	},
 	{
 		"name": "Landgun",
