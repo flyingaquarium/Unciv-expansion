@@ -145,7 +145,7 @@
 	"uniques": ["[1] additional attacks per turn"],
 	"unitTypes": ["Spaceship"],
 	"column": 32,
-    "row": 4
+    "row": 5
   },
   {
 	"name": "Hyper Radar",
