@@ -116,7 +116,7 @@
     "row": 1
   },
   {
-	"name": "Railguns iI",
+	"name": "Railguns II",
 	"prerequisites": ["Railguns I"],
 	"uniques": ["[+20]% Strength <vs cities>"],
 	"unitTypes": ["Spaceship"],
