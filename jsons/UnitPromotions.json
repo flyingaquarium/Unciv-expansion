@@ -83,7 +83,7 @@
 	  "prerequisites": ["Supplies I"],
 	"unitTypes": ["Spaceship"],
 	"column": 29,
-    "row": 2
+    "row": 3
   },
   {
 	"name": "Composite Alloy I",
