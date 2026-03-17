@@ -154,7 +154,7 @@
 				"row": 2,
 				"prerequisites": ["Bioprinting"],
 				"uniques": ["[-10]% weight to this choice for AI decisions"],
-				"quote": "'From trees, to Turning Deserts into Grasslands. A big leap'- Geologist B. Hansenberg"
+				"quote": "'We could beat cancer with this. but chances aren't 100%'- Dr Perlington"
 			},
 			{
 				"name": "Magnetic Shields",
