@@ -211,6 +211,7 @@
 		"strength": 400,
 		"cost": 9750,
 		"requiredTech": "Plasmacannons",
+		"range": 1,
 		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
@@ -221,6 +222,7 @@
 		"strength": 400,
 		"cost": 9750,
 		"requiredTech": "Plasmacannons",
+		"range": 1,
 		"uniques" : ["Consumes [1] [Deuterium]","Never appears as a Barbarian unit","[1] additional attacks per turn","[-50]% Strength <when attacking>"],
 		"attackSound": "Laser1"
 	},
@@ -231,6 +233,7 @@
 		"strength": 650,
 		"cost": 22500,
 		"requiredTech": "Energy Shields",
+		"range": 2,
 		"uniques" : ["Consumes [2] [Deuterium]","Cannot be purchased","Never appears as a Barbarian unit","[1] additional attacks per turn"],
 		"attackSound": "Spaceship_Gun"
 	},
@@ -242,6 +245,7 @@
 		"cost": 30500,
 		"requiredTech": "Alcubierre Bubbles",
 		"promotions": ["Hyper Radar"],
+		"range": 3,
 		"uniques" : ["Consumes [1] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","Never appears as a Barbarian unit"],
 		"attackSound": "Spaceship_Gun"
 	},
@@ -252,6 +256,7 @@
 		"strength": 2400,
 		"cost": 45000,
 		"requiredTech": "Megastructures",
+		"range": 4,
 		"uniques" : ["Consumes [2] [Antimatter]","Cannot be purchased","Triggers a global alert upon build start","Triggers a global alert upon completion","[2] additional attacks per turn","Never appears as a Barbarian unit","[-60]% Strength <when attacking>"],
 		"promotions": ["Hyper Radar"],
 		"attackSound": "Spaceship_Gun"
